@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-09 02:42:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-09 02:42:41 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 581
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-09 03:58:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-09 03:58:36 172.31.22.76 GET / - 80 - 168.1.128.38 Mozilla/5.0+(Windows+NT+6.1;+rv:31.0)+Gecko/20100101+Firefox/31.0 - 200 0 0 1043
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-09 12:19:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-09 12:19:45 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 443
+2016-09-09 12:33:08 172.31.22.76 GET /robots.txt - 80 - 66.249.69.72 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 50
+2016-09-09 12:33:08 172.31.22.76 GET / - 80 - 66.249.69.67 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 785
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-09 14:40:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-09 14:40:33 172.31.22.76 GET /cgi/common.cgi - 80 - 200.225.5.55 Wget(linux) - 404 0 2 137
+2016-09-09 14:40:33 172.31.22.76 GET /stssys.htm - 80 - 200.225.5.55 Wget(linux) - 404 0 2 76
+2016-09-09 14:40:33 172.31.22.76 GET / - 80 - 200.225.5.55 Wget(linux) - 200 0 0 164
+2016-09-09 14:40:33 172.31.22.76 POST /command.php - 80 - 200.225.5.55 Wget(linux) - 404 0 2 75
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-09 17:18:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-09 17:18:03 172.31.22.76 GET / - 80 - 185.93.185.10 Scanbot - 200 0 0 338
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-09 22:59:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-09 22:59:41 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 329

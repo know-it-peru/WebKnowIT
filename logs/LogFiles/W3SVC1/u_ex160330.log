@@ -1,0 +1,46 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-30 01:54:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-30 01:54:41 172.31.22.76 GET /xmlrpc.php - 80 - 89.248.174.4 - - 404 0 2 199
+2016-03-30 02:01:37 172.31.22.76 GET / - 80 - 203.157.127.18 - - 200 0 64 441
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-30 05:48:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-30 05:48:09 172.31.22.76 HEAD / - 80 - 185.103.252.56 curl/7.38.0 - 200 0 0 914
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-30 09:11:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-30 09:11:47 172.31.22.76 GET /rom-0 - 80 - 5.39.222.159 Mozilla/5.0+zgrab/0.x - 404 0 2 266
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-30 10:39:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-30 10:39:30 172.31.22.76 GET / - 80 - 74.91.18.43 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 175
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-30 14:20:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-30 14:20:07 172.31.22.76 GET / - 80 - 69.197.185.20 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 174
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-30 14:59:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-30 14:59:32 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 233
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-30 21:11:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-30 21:11:21 172.31.22.76 GET /muieblackcat - 80 - 159.203.76.169 - - 404 0 2 1055
+2016-03-30 21:11:21 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 159.203.76.169 - - 404 0 2 75
+2016-03-30 21:11:21 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 159.203.76.169 - - 404 0 2 73
+2016-03-30 21:11:21 172.31.22.76 GET /pma/scripts/setup.php - 80 - 159.203.76.169 - - 404 0 2 73
+2016-03-30 21:11:21 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 159.203.76.169 - - 404 0 2 74
+2016-03-30 21:11:21 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 159.203.76.169 - - 404 0 2 75
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-30 22:49:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-30 22:49:41 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 220

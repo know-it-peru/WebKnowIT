@@ -1,0 +1,164 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 00:06:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 00:06:15 172.31.22.76 GET /robots.txt - 80 - 66.249.64.91 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 126
+2016-03-02 00:06:15 172.31.22.76 GET / - 80 - 66.249.64.81 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 270
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 03:15:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 03:15:48 172.31.22.76 HEAD / - 80 - 23.20.205.190 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 193
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 06:00:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 06:00:32 172.31.22.76 HEAD /1phpmyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 508
+2016-03-02 06:00:32 172.31.22.76 HEAD /2phpmyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:32 172.31.22.76 HEAD /3phpmyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 223
+2016-03-02 06:00:32 172.31.22.76 HEAD /4phpmyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:32 172.31.22.76 HEAD /MyAdmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:33 172.31.22.76 HEAD /PMA/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:33 172.31.22.76 HEAD /PMA2011/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 211
+2016-03-02 06:00:33 172.31.22.76 HEAD /PMA2012/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:33 172.31.22.76 HEAD /PMA2013/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:33 172.31.22.76 HEAD /PMA2014/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:34 172.31.22.76 HEAD /PMA2015/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 213
+2016-03-02 06:00:34 172.31.22.76 HEAD /admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:34 172.31.22.76 HEAD /admin/db/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:34 172.31.22.76 HEAD /admin/pMA/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:34 172.31.22.76 HEAD /admin/phpMyAdmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:35 172.31.22.76 HEAD /admin/phpmyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 210
+2016-03-02 06:00:35 172.31.22.76 HEAD /admin/sqladmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:35 172.31.22.76 HEAD /admin/sysadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:35 172.31.22.76 HEAD /admin/web/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 216
+2016-03-02 06:00:35 172.31.22.76 HEAD /administrator/PMA/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:36 172.31.22.76 HEAD /administrator/admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 210
+2016-03-02 06:00:36 172.31.22.76 HEAD /administrator/db/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 242
+2016-03-02 06:00:36 172.31.22.76 HEAD /administrator/phpMyAdmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:36 172.31.22.76 HEAD /administrator/phpmyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 212
+2016-03-02 06:00:36 172.31.22.76 HEAD /administrator/pma/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 212
+2016-03-02 06:00:37 172.31.22.76 HEAD /administrator/web/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:37 172.31.22.76 HEAD /database/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 212
+2016-03-02 06:00:37 172.31.22.76 HEAD /db/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 214
+2016-03-02 06:00:37 172.31.22.76 HEAD /db/db-admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:37 172.31.22.76 HEAD /db/dbadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 210
+2016-03-02 06:00:38 172.31.22.76 HEAD /db/dbweb/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 213
+2016-03-02 06:00:38 172.31.22.76 HEAD /db/myadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 218
+2016-03-02 06:00:38 172.31.22.76 HEAD /db/phpMyAdmin-3/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:38 172.31.22.76 HEAD /db/phpMyAdmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:38 172.31.22.76 HEAD /db/phpMyAdmin3/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:39 172.31.22.76 HEAD /db/phpmyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:39 172.31.22.76 HEAD /db/phpmyadmin3/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 211
+2016-03-02 06:00:39 172.31.22.76 HEAD /db/webadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 227
+2016-03-02 06:00:39 172.31.22.76 HEAD /db/webdb/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:39 172.31.22.76 HEAD /db/websql/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:40 172.31.22.76 HEAD /dbadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:40 172.31.22.76 HEAD /myadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 217
+2016-03-02 06:00:40 172.31.22.76 HEAD /myadminphp/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:40 172.31.22.76 HEAD /mysql-admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 212
+2016-03-02 06:00:40 172.31.22.76 HEAD /mysql/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:41 172.31.22.76 HEAD /mysql/admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:41 172.31.22.76 HEAD /mysql/db/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:41 172.31.22.76 HEAD /mysql/dbadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:41 172.31.22.76 HEAD /mysql/mysqlmanager/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:41 172.31.22.76 HEAD /mysql/pMA/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:42 172.31.22.76 HEAD /mysql/pma/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:42 172.31.22.76 HEAD /mysql/sqlmanager/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 211
+2016-03-02 06:00:42 172.31.22.76 HEAD /mysql/web/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:42 172.31.22.76 HEAD /mysqladmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:42 172.31.22.76 HEAD /mysqlmanager/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 211
+2016-03-02 06:00:43 172.31.22.76 HEAD /php-my-admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:43 172.31.22.76 HEAD /php-myadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:43 172.31.22.76 HEAD /phpMyAdmin-2/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:43 172.31.22.76 HEAD /phpMyAdmin-3/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:43 172.31.22.76 HEAD /phpMyAdmin-4/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:44 172.31.22.76 HEAD /phpMyAdmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:44 172.31.22.76 HEAD /phpMyAdmin2/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:44 172.31.22.76 HEAD /phpMyAdmin3/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:44 172.31.22.76 HEAD /phpMyAdmin4/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 211
+2016-03-02 06:00:44 172.31.22.76 HEAD /phpMyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:45 172.31.22.76 HEAD /phpmanager/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 204
+2016-03-02 06:00:45 172.31.22.76 HEAD /phpmy-admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:45 172.31.22.76 HEAD /phpmy/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:45 172.31.22.76 HEAD /phpmyAdmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:45 172.31.22.76 HEAD /phpmyadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:46 172.31.22.76 HEAD /phpmyadmin1/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:46 172.31.22.76 HEAD /phpmyadmin2/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:46 172.31.22.76 HEAD /phpmyadmin3/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:46 172.31.22.76 HEAD /phpmyadmin4/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:46 172.31.22.76 HEAD /phppma/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 212
+2016-03-02 06:00:47 172.31.22.76 HEAD /pma/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 213
+2016-03-02 06:00:47 172.31.22.76 HEAD /pma2011/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:47 172.31.22.76 HEAD /pma2012/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 211
+2016-03-02 06:00:47 172.31.22.76 HEAD /pma2013/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 224
+2016-03-02 06:00:47 172.31.22.76 HEAD /pma2014/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 218
+2016-03-02 06:00:48 172.31.22.76 HEAD /pma2015/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:48 172.31.22.76 HEAD /program/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:48 172.31.22.76 HEAD /shopdb/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:48 172.31.22.76 HEAD /sql/myadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 207
+2016-03-02 06:00:48 172.31.22.76 HEAD /sql/php-myadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 208
+2016-03-02 06:00:50 172.31.22.76 HEAD /sql/phpMyAdmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 238
+2016-03-02 06:00:50 172.31.22.76 HEAD /sql/phpMyAdmin2/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 229
+2016-03-02 06:00:50 172.31.22.76 HEAD /sql/phpMyAdmin3/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:50 172.31.22.76 HEAD /sql/phpMyAdmin4/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:50 172.31.22.76 HEAD /sql/phpmanager/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:51 172.31.22.76 HEAD /sql/phpmy-admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+2016-03-02 06:00:51 172.31.22.76 HEAD /sql/phpmyadmin2/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 204
+2016-03-02 06:00:51 172.31.22.76 HEAD /sql/phpmyadmin3/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:51 172.31.22.76 HEAD /sql/phpmyadmin4/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 204
+2016-03-02 06:00:51 172.31.22.76 HEAD /sql/sql-admin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:52 172.31.22.76 HEAD /sql/sql/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:52 172.31.22.76 HEAD /sql/sqladmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:52 172.31.22.76 HEAD /sql/sqlweb/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 209
+2016-03-02 06:00:52 172.31.22.76 HEAD /sql/webadmin/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 205
+2016-03-02 06:00:52 172.31.22.76 HEAD /sql/webdb/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 210
+2016-03-02 06:00:53 172.31.22.76 HEAD /sql/websql/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 211
+2016-03-02 06:00:53 172.31.22.76 HEAD /sqlmanager/ - 80 - 113.180.110.195 Mozilla/5.0+Jorgee - 404 0 2 206
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 11:20:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 11:20:34 172.31.22.76 GET /robots.txt - 80 - 66.249.64.79 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 125
+2016-03-02 11:20:34 172.31.22.76 GET / - 80 - 66.249.64.74 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 11:40:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 11:40:27 172.31.22.76 GET / - 80 - 66.240.236.119 - - 200 0 0 35
+2016-03-02 11:40:27 172.31.22.76 GET /robots.txt - 80 - 66.240.236.119 - - 404 0 2 42
+2016-03-02 11:40:27 172.31.22.76 GET /sitemap.xml - 80 - 66.240.236.119 - - 404 0 2 42
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 13:39:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 13:39:15 172.31.22.76 GET / - 80 - 66.249.64.69 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 199
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 14:50:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 14:50:45 172.31.22.76 GET / - 80 - 66.249.64.69 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 201
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 19:59:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 19:59:10 172.31.22.76 GET /manager/html - 80 - 61.148.124.38 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 416
+2016-03-02 20:11:50 172.31.22.76 GET /robots.txt - 80 - 207.46.13.192 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 12
+2016-03-02 20:11:55 172.31.22.76 GET / - 80 - 207.46.13.192 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 0 0 12
+2016-03-02 20:11:55 172.31.22.76 GET /tools/960.css - 80 - 199.30.24.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.know-it.pe/ 200 0 0 14
+2016-03-02 20:11:56 172.31.22.76 GET /tools/style.css - 80 - 199.30.24.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.know-it.pe/ 200 0 0 13
+2016-03-02 20:11:56 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 199.30.24.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.know-it.pe/ 200 0 0 69
+2016-03-02 20:11:56 172.31.22.76 GET /images/bg.png - 80 - 199.30.24.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.know-it.pe/ 200 0 0 64
+2016-03-02 20:12:10 172.31.22.76 GET /robots.txt - 80 - 207.46.13.132 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 13
+2016-03-02 20:12:10 172.31.22.76 GET /robots.txt - 80 - 207.46.13.132 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 13
+2016-03-02 20:12:10 172.31.22.76 GET /robots.txt - 80 - 207.46.13.132 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 13
+2016-03-02 20:20:26 172.31.22.76 GET / - 80 - 198.20.69.74 - - 200 0 0 44
+2016-03-02 20:20:26 172.31.22.76 GET /robots.txt - 80 - 198.20.69.74 - - 404 0 2 48
+2016-03-02 20:20:26 172.31.22.76 GET /sitemap.xml - 80 - 198.20.69.74 - - 404 0 2 42
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-02 23:32:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-02 23:32:45 172.31.22.76 GET / - 80 - 173.252.90.119 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 189
+2016-03-02 23:43:25 172.31.22.76 GET /robots.txt - 80 - 66.249.79.201 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 14
+2016-03-02 23:43:25 172.31.22.76 GET / - 80 - 66.249.79.194 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 15

@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-09 00:56:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-09 00:56:56 172.31.22.76 GET / - 80 - 91.195.53.13 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.87+Safari/537.36 - 200 0 0 314
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-09 03:58:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-09 03:58:04 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-09 11:22:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-09 11:22:21 172.31.22.76 GET / - 80 - 169.54.244.89 - - 200 0 0 1019
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-09 17:52:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-09 17:52:42 172.31.22.76 GET /cache/global/img/gs.gif - 80 - 80.82.78.38 Mozilla - 404 0 2 201
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-09 22:21:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-09 22:21:49 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 232

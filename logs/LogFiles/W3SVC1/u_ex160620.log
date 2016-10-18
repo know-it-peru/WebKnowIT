@@ -1,0 +1,79 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 06:30:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 06:30:05 172.31.22.76 GET /robots.txt - 80 - 66.249.64.246 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 413
+2016-06-20 06:30:05 172.31.22.76 GET / - 80 - 66.249.64.251 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 880
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 07:32:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 07:32:53 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 232
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 08:22:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 08:22:40 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 225
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 10:45:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 10:45:16 172.31.22.76 GET /robots.txt - 80 - 66.249.64.243 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 209
+2016-06-20 10:45:16 172.31.22.76 GET / - 80 - 66.249.64.253 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 151
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 11:28:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 11:28:24 172.31.22.76 GET / - 80 - 66.249.64.246 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 190
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 12:47:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 12:47:38 172.31.22.76 HEAD /robots.txt - 80 - 52.29.170.101 - - 404 0 2 211
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 15:34:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 15:34:44 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.64.251 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://52.25.39.214/ 200 0 0 121
+2016-06-20 15:34:44 172.31.22.76 GET /tools/960.css - 80 - 66.249.64.251 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://52.25.39.214/ 200 0 0 77
+2016-06-20 15:34:45 172.31.22.76 GET /tools/style.css - 80 - 66.249.64.241 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://52.25.39.214/ 200 0 0 75
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 16:33:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 16:33:56 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 228
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-20 21:23:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-20 21:23:05 172.31.22.76 GET / - 80 - 75.103.110.47 Python-urllib/2.7 - 200 0 0 202
+2016-06-20 21:23:05 172.31.22.76 GET /script - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 46
+2016-06-20 21:23:05 172.31.22.76 GET /jenkins/script - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 42
+2016-06-20 21:23:05 172.31.22.76 GET /hudson/script - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 46
+2016-06-20 21:23:05 172.31.22.76 GET /login - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 44
+2016-06-20 21:23:05 172.31.22.76 GET /jenkins/login - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 47
+2016-06-20 21:23:05 172.31.22.76 GET /hudson/login - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 45
+2016-06-20 21:23:05 172.31.22.76 GET /jmx-console - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 44
+2016-06-20 21:23:05 172.31.22.76 GET /manager/html - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 44
+2016-06-20 21:23:06 172.31.22.76 GET /msd - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 45
+2016-06-20 21:23:06 172.31.22.76 GET /mySqlDumper - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 43
+2016-06-20 21:23:06 172.31.22.76 GET /msd1.24stable - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 46
+2016-06-20 21:23:06 172.31.22.76 GET /msd1.24.4 - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 43
+2016-06-20 21:23:06 172.31.22.76 GET /mysqldumper - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 44
+2016-06-20 21:23:06 172.31.22.76 GET /MySQLDumper - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 44
+2016-06-20 21:23:06 172.31.22.76 GET /mysql - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 45
+2016-06-20 21:23:06 172.31.22.76 GET /sql - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 46
+2016-06-20 21:23:06 172.31.22.76 GET /phpmyadmin - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 45
+2016-06-20 21:23:06 172.31.22.76 GET /phpMyAdmin - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 43
+2016-06-20 21:23:07 172.31.22.76 GET /mysql - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 43
+2016-06-20 21:23:07 172.31.22.76 GET /sql - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 43
+2016-06-20 21:23:07 172.31.22.76 GET /myadmin - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 44
+2016-06-20 21:23:07 172.31.22.76 GET /phpMyAdmin-4.2.1-all-languages - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 45
+2016-06-20 21:23:07 172.31.22.76 GET /phpMyAdmin-4.2.1-english - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 46
+2016-06-20 21:23:07 172.31.22.76 GET / - 80 - 75.103.110.47 Python-urllib/2.7 - 200 0 0 47
+2016-06-20 21:23:07 172.31.22.76 GET /sqlite/main.php - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 44
+2016-06-20 21:23:07 172.31.22.76 GET /SQLite/SQLiteManager-1.2.4/main.php - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 48
+2016-06-20 21:23:08 172.31.22.76 GET /SQLiteManager-1.2.4/main.php - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 45
+2016-06-20 21:23:08 172.31.22.76 GET /sqlitemanager/main.php - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 45
+2016-06-20 21:23:08 172.31.22.76 GET /SQlite/main.php - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 42
+2016-06-20 21:23:08 172.31.22.76 GET /SQLiteManager/main.php - 80 - 75.103.110.47 Python-urllib/2.7 - 404 0 2 45

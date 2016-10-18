@@ -1,0 +1,47 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-23 01:46:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-23 01:46:54 172.31.22.76 GET /manager/html - 80 - 101.251.229.133 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 401
+2016-05-23 01:54:54 172.31.22.76 GET /robots.txt - 80 - 66.249.79.154 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 13
+2016-05-23 01:54:54 172.31.22.76 GET / - 80 - 66.249.79.154 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 15
+2016-05-23 01:54:55 172.31.22.76 GET /tools/960.css - 80 - 66.249.79.161 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 17
+2016-05-23 01:54:55 172.31.22.76 GET /tools/style.css - 80 - 66.249.79.161 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 19
+2016-05-23 01:54:55 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.79.154 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 55
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-23 13:10:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-23 13:10:39 172.31.22.76 GET /SiteMap.xml - 80 - 94.102.48.193 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 404 0 2 540
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-23 14:59:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-23 14:59:19 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 235
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-23 18:01:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-23 18:01:35 172.31.22.76 GET / - 80 - 210.56.212.18 Mozilla/5.0+(Windows+NT+6.1;+rv:31.0)+Gecko/20100101+Firefox/31.0 - 200 0 0 582
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-23 18:26:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-23 18:26:14 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 237
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-23 21:16:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-23 21:16:50 172.31.22.76 GET / - 80 - 185.93.185.252 Research+scan,+mail+networkresearch@yandex.ru - 200 0 0 334
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-23 23:14:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-23 23:14:01 172.31.22.76 GET /muieblackcat - 80 - 185.40.4.41 - - 404 0 2 350
+2016-05-23 23:14:01 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 185.40.4.41 - - 404 0 2 226
+2016-05-23 23:14:03 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 185.40.4.41 - - 404 0 2 225
+2016-05-23 23:14:04 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 185.40.4.41 - - 404 0 2 225
+2016-05-23 23:14:04 172.31.22.76 GET /pma/scripts/setup.php - 80 - 185.40.4.41 - - 404 0 2 225
+2016-05-23 23:14:04 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 185.40.4.41 - - 404 0 2 225
+2016-05-23 23:14:06 172.31.22.76 GET /mysql/scripts/setup.php - 80 - 185.40.4.41 - - 404 0 2 225
+2016-05-23 23:14:06 172.31.22.76 GET /mysqladmin/scripts/setup.php - 80 - 185.40.4.41 - - 404 0 2 224

@@ -1,0 +1,44 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-13 00:39:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-13 00:39:19 172.31.22.76 GET /myiphc.php rnd=320c39084a61ab518d773518747bdf5e&rn=146837045397408 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 242
+2016-07-13 00:39:20 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146837045441622 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 207
+2016-07-13 00:39:20 172.31.22.76 GET /myipha.php rnd=320c39084a61ab518d773518747bdf5e&rn=146837045483062 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 210
+2016-07-13 00:39:20 172.31.22.76 GET /myipha.php rnd=320c39084a61ab518d773518747bdf5e&rn=146837045525187 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 206
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-13 01:21:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-13 01:21:46 172.31.22.76 HEAD /robots.txt - 80 - 212.83.171.95 - - 404 0 2 747
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-13 06:40:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-13 06:40:29 172.31.22.76 GET /robots.txt - 80 - 216.145.14.142 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) - 404 0 2 390
+2016-07-13 06:40:29 172.31.22.76 GET / - 80 - 216.145.14.142 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) http://whois.domaintools.com/know-it.pe 200 0 0 869
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-13 07:55:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-13 07:55:58 172.31.22.76 GET /nagiosxi/ - 80 - 40.84.6.87 Wget/1.12+(linux-gnu) - 404 0 2 254
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-13 12:28:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-13 12:28:43 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 223
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-13 13:27:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-13 13:27:29 172.31.22.76 GET / - 80 - 69.30.252.246 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 177
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-13 17:12:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-13 17:12:55 172.31.22.76 GET /phpMyAdmin - 80 - 211.140.169.244 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) http://52.25.39.214/phpMyAdmin 404 0 2 544
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-13 18:16:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-13 18:16:40 172.31.22.76 GET /manager/html - 80 - 187.115.160.152 Mozilla/5.0+(Windows+NT+5.1;+rv:5.0)+Gecko/20100101+Firefox/5.0 - 404 0 64 275

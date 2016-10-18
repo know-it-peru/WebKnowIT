@@ -1,0 +1,94 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 01:06:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 01:06:30 172.31.22.76 GET /tools/style.css - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 04:42:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 04:42:20 172.31.22.76 POST /404 - 80 - 61.216.2.14 apache - 404 0 2 1109
+2016-01-01 04:43:38 172.31.22.76 GET /server-status HTTP_POST=%"%6346#%#/&#736%"#423|;&HTTP_CGI_GET=GRESYYK"K&J"#L523D2G23H23 80 - 185.130.5.224 apache+0day+by+@hxmonsegur - 404 0 2 625
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 08:56:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 08:56:44 172.31.22.76 GET /images/social.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 09:14:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 09:14:32 172.31.22.76 GET /testproxy.php - 80 - 94.185.83.100 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 10:18:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 10:18:21 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 11:11:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 11:11:19 172.31.22.76 HEAD / - 80 - 185.106.92.4 curl/7.38.0 - 200 0 0 312
+2016-01-01 11:23:50 172.31.22.76 GET /favicon.ico - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 12:16:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 12:16:29 172.31.22.76 GET /manager/html - 80 - 155.94.224.207 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) - 404 0 64 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 13:07:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 13:07:36 172.31.22.76 GET /images/bg.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 14:09:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 14:09:57 172.31.22.76 GET / - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 265
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 15:16:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 15:16:27 172.31.22.76 GET /server-status HTTP_POST=%"%6346#%#/&#736%"#423|;&HTTP_CGI_GET=GRESYYK"K&J"#L523D2G23H23 80 - 185.130.5.224 apache+0day+by+@hxmonsegur - 404 0 2 1015
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 15:53:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 15:53:11 172.31.22.76 GET / - 80 - 141.212.122.160 Mozilla/5.0+zgrab/0.x - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 17:06:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 17:06:18 172.31.22.76 GET /tools/960.css - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 203
+2016-01-01 17:21:14 172.31.22.76 GET /server-status HTTP_POST=%"%6346#%#/&#736%"#423|;&HTTP_CGI_GET=GRESYYK"K&J"#L523D2G23H23 80 - 185.130.5.224 apache+0day+by+@hxmonsegur - 404 0 2 1078
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 17:55:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 17:55:47 172.31.22.76 GET /manager/html - 80 - 217.27.193.106 Mozilla/5.0+(Windows+NT+5.1;+rv:5.0)+Gecko/20100101+Firefox/5.0 - 404 0 64 296
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 18:39:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 18:39:16 172.31.22.76 GET /server-status HTTP_POST=%"%6346#%#/&#736%"#423|;&HTTP_CGI_GET=GRESYYK"K&J"#L523D2G23H23 80 - 185.130.5.224 apache+0day+by+@hxmonsegur - 404 0 2 2968
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 20:27:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 20:27:06 172.31.22.76 GET /server-status HTTP_POST=%"%6346#%#/&#736%"#423|;&HTTP_CGI_GET=GRESYYK"K&J"#L523D2G23H23 80 - 185.130.5.224 apache+0day+by+@hxmonsegur - 404 0 2 1046
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 21:52:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 21:52:05 172.31.22.76 GET /images/logo.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 22:30:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 22:30:01 172.31.22.76 GET /server-status HTTP_POST=%"%6346#%#/&#736%"#423|;&HTTP_CGI_GET=GRESYYK"K&J"#L523D2G23H23 80 - 185.130.5.224 apache+0day+by+@hxmonsegur - 404 0 2 609
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-01 23:04:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-01 23:04:44 172.31.22.76 GET /server-status HTTP_POST=%"%6346#%#/&#736%"#423|;&HTTP_CGI_GET=GRESYYK"K&J"#L523D2G23H23 80 - 185.130.5.224 apache+0day+by+@hxmonsegur - 404 0 2 1218
+2016-01-01 23:10:57 172.31.22.76 GET /images/watch.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 156

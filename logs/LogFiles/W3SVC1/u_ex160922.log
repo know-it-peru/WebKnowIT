@@ -1,0 +1,42 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-22 02:12:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-22 02:12:46 172.31.22.76 GET / - 80 - 89.248.172.98 Mozilla/5.0+(Windows+NT+6.1;+rv:31.0)+Gecko/20100101+Firefox/31.0 - 200 0 0 1167
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-22 05:46:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-22 05:46:41 172.31.22.76 GET /cgi/common.cgi - 80 - 189.219.136.196 Wget(linux) - 404 0 2 499
+2016-09-22 05:46:41 172.31.22.76 GET /stssys.htm - 80 - 189.219.136.196 Wget(linux) - 404 0 2 78
+2016-09-22 05:46:42 172.31.22.76 GET / - 80 - 189.219.136.196 Wget(linux) - 200 0 0 953
+2016-09-22 05:46:42 172.31.22.76 POST /command.php - 80 - 189.219.136.196 Wget(linux) - 404 0 2 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-22 08:29:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-22 08:29:54 172.31.22.76 GET / - 80 - 204.12.220.82 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-22 08:52:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-22 08:52:24 172.31.22.76 GET / - 80 - 5.39.59.117 Python-urllib/2.7 - 200 0 0 281
+2016-09-22 08:52:24 172.31.22.76 GET /sugarcrm/index.php action=Login&module=Users 80 - 5.39.59.117 Python-urllib/2.7 - 404 0 2 171
+2016-09-22 08:52:24 172.31.22.76 GET /crm/index.php action=Login&module=Users 80 - 5.39.59.117 Python-urllib/2.7 - 404 0 2 171
+2016-09-22 08:52:25 172.31.22.76 GET /index.php action=Login&module=Users/index.php?action=Login&module=Users 80 - 5.39.59.117 Python-urllib/2.7 - 404 0 2 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-22 17:50:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-22 17:50:00 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 249
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-22 19:18:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-22 19:18:23 172.31.22.76 GET / - 80 - 66.240.213.93 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 200 0 64 124
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-22 20:33:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-22 20:33:17 172.31.22.76 GET /robots.txt - 80 - 66.249.69.77 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 93
+2016-09-22 20:33:17 172.31.22.76 GET / - 80 - 66.249.69.72 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 109

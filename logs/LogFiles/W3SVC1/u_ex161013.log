@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-13 01:17:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-13 01:17:49 172.31.22.76 GET / - 80 - 66.240.236.119 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2228.0+Safari/537.36 - 200 0 0 156
+2016-10-13 01:17:49 172.31.22.76 GET /robots.txt - 80 - 66.240.236.119 - - 404 0 2 46
+2016-10-13 01:17:51 172.31.22.76 GET /sitemap.xml - 80 - 66.240.236.119 - - 404 0 2 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-13 04:06:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-13 04:06:31 172.31.22.76 GET / - 80 - 66.220.145.245 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Safari/602.1.50 http://l.facebook.com/lsr.php?u=http%3A%2F%2Fwww.know-it.pe%2F&ext=1476331889&hash=AckiKlJlb5Cfr-HsTOJgP2yalO2HAYuPalGWqo_480sNyw 200 0 0 1000
+2016-10-13 04:06:31 172.31.22.76 GET /favicon.ico - 80 - 66.220.145.245 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Safari/602.1.50 http://www.know-it.pe/ 200 0 0 15
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-13 12:24:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-13 12:24:40 172.31.22.76 GET /xmlrpc.php - 80 - 191.96.249.54 - - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-13 12:53:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-13 12:53:29 172.31.22.76 GET / - 80 - 54.78.133.9 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 296
+2016-10-13 12:57:44 172.31.22.76 GET / - 80 - 54.78.133.9 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 796
+2016-10-13 13:00:12 172.31.22.76 GET / - 80 - 54.78.133.9 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 1236 5046
+2016-10-13 13:07:43 172.31.22.76 GET / - 80 - 54.78.133.9 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-13 15:49:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-13 15:49:55 172.31.22.76 HEAD / - 80 - 211.1.156.90 - - 200 0 64 328
+2016-10-13 15:54:37 172.31.22.76 GET /cgi/common.cgi - 80 - 189.218.48.110 Wget(linux) - 404 0 2 156
+2016-10-13 15:54:37 172.31.22.76 GET /stssys.htm - 80 - 189.218.48.110 Wget(linux) - 404 0 2 93
+2016-10-13 15:54:37 172.31.22.76 GET / - 80 - 189.218.48.110 Wget(linux) - 200 0 0 109
+2016-10-13 15:54:37 172.31.22.76 POST /command.php - 80 - 189.218.48.110 Wget(linux) - 404 0 2 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-13 16:50:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-13 16:50:18 172.31.22.76 GET / - 80 - 173.252.90.116 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 304 0 0 187

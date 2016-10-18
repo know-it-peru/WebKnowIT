@@ -1,0 +1,50 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 02:17:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 02:17:43 172.31.22.76 GET /cgi/common.cgi - 80 - 189.218.234.44 Wget(linux) - 404 0 2 124
+2016-10-06 02:17:43 172.31.22.76 GET /stssys.htm - 80 - 189.218.234.44 Wget(linux) - 404 0 2 93
+2016-10-06 02:17:43 172.31.22.76 GET / - 80 - 189.218.234.44 Wget(linux) - 200 0 0 171
+2016-10-06 02:17:43 172.31.22.76 POST /command.php - 80 - 189.218.234.44 Wget(linux) - 404 0 2 109
+2016-10-06 02:23:09 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 02:56:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 02:56:13 172.31.22.76 GET / - 80 - 169.56.71.39 Mozilla/5.0+(Windows+NT+6.1;+rv:31.0)+Gecko/20100101+Firefox/31.0 - 200 0 0 281
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 05:08:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 05:08:33 172.31.22.76 GET / - 80 - 31.13.102.108 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 304 0 0 281
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 07:02:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 07:02:09 172.31.22.76 HEAD / - 80 - 175.101.58.83 - - 200 0 0 406
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 09:56:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 09:56:15 172.31.22.76 GET / - 80 - 142.54.180.67 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 13:00:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 13:00:41 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234
+2016-10-06 13:11:47 172.31.22.76 GET / - 80 - 63.141.231.198 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 13:54:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 13:54:03 172.31.22.76 HEAD /robots.txt - 80 - 212.83.162.138 - - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 17:31:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 17:31:01 172.31.22.76 GET / - 80 - 79.114.82.195 Mechanize/2.7.3+Ruby/2.1.5p273+(http://github.com/sparklemotion/mechanize/) - 200 0 0 328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-06 20:08:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-10-06 20:08:42 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234

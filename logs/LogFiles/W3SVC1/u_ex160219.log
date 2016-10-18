@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-19 00:56:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-19 00:56:45 172.31.22.76 GET / - 80 - 104.144.112.62 GuzzleHttp/6.1.1+curl/7.35.0+PHP/7.0.2-4+deb.sury.org~trusty+1 - 200 0 0 199
+2016-02-19 00:56:45 172.31.22.76 GET / - 80 - 104.144.116.56 GuzzleHttp/6.1.1+curl/7.35.0+PHP/7.0.2-4+deb.sury.org~trusty+1 - 200 0 0 81
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-19 05:56:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-19 05:56:16 172.31.22.76 GET /xmlrpc.php - 80 - 213.152.173.135 - - 404 0 2 571
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-19 08:10:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-19 08:10:50 172.31.22.76 GET /robots.txt - 80 - 180.97.106.161 - - 404 0 2 407
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-19 09:04:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-19 09:04:11 172.31.22.76 GET /robots.txt - 80 - 180.97.106.37 - - 404 0 2 368
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-19 09:49:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-19 09:49:00 172.31.22.76 GET /robots.txt - 80 - 66.249.64.91 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 125
+2016-02-19 09:49:00 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.64.81 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 84
+2016-02-19 09:49:01 172.31.22.76 GET /tools/style.css - 80 - 66.249.64.91 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 82
+2016-02-19 09:49:01 172.31.22.76 GET /tools/960.css - 80 - 66.249.64.91 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 82
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-19 18:27:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-19 18:27:07 172.31.22.76 GET / - 80 - 128.232.110.28 Mozilla/5.0+zgrab/0.x - 200 0 0 932
+2016-02-19 18:42:16 172.31.22.76 HEAD / - 80 - 91.217.10.157 - - 200 0 0 175
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-19 21:27:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-19 21:27:39 172.31.22.76 GET / - 80 - 173.252.90.110 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 985

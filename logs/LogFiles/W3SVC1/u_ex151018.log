@@ -1,0 +1,161 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 00:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 00:00:00 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 296
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 00:59:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 00:59:29 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 749
+2015-10-18 00:59:29 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://ec2-52-25-39-214.us-west-2.compute.amazonaws.com/ 404 0 2 218
+2015-10-18 01:05:01 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 304 0 0 203
+2015-10-18 01:05:01 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 265
+2015-10-18 01:05:05 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 171
+2015-10-18 01:05:05 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 187
+2015-10-18 01:05:13 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 296
+2015-10-18 01:05:13 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://ec2-52-25-39-214.us-west-2.compute.amazonaws.com/ 404 0 2 265
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 01:23:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 01:23:32 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 156
+2015-10-18 01:23:32 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 06:37:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 06:37:13 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 13:44:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 13:44:12 172.31.22.76 GET / - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 - 200 0 0 203
+2015-10-18 13:44:12 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://52.25.39.214/ 404 0 2 171
+2015-10-18 13:44:12 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://52.25.39.214/ 404 0 2 218
+2015-10-18 13:47:35 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://52.25.39.214/ 404 0 2 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 14:08:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 14:08:03 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://52.25.39.214/ 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 14:42:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 14:42:37 172.31.22.76 GET / - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 - 304 0 0 321
+2015-10-18 14:42:37 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://52.25.39.214/ 404 0 2 230
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 14:49:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 14:49:30 172.31.22.76 GET / - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 - 200 0 0 374
+2015-10-18 14:49:30 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://52.25.39.214/ 404 0 2 218
+2015-10-18 14:49:31 172.31.22.76 GET / - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 - 304 0 0 171
+2015-10-18 14:49:31 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://52.25.39.214/ 404 0 2 203
+2015-10-18 15:04:46 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://52.25.39.214/ 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 15:35:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 15:35:18 172.31.22.76 HEAD / - 80 - 54.161.34.127 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 15:59:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 15:59:43 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 250
+2015-10-18 15:59:47 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 296
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 18:27:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 18:27:43 172.31.22.76 GET / - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 218
+2015-10-18 18:27:43 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://www.know-it.pe/ 404 0 2 203
+2015-10-18 18:28:24 172.31.22.76 GET / - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://m.facebook.com 200 0 0 187
+2015-10-18 18:28:24 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://www.know-it.pe/ 404 0 2 187
+2015-10-18 18:28:47 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://www.know-it.pe/ 404 0 2 203
+2015-10-18 18:30:20 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://www.know-it.pe/ 404 0 2 171
+2015-10-18 18:30:22 172.31.22.76 GET / - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 https://www.facebook.com/ 200 0 0 234
+2015-10-18 18:30:22 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://www.know-it.pe/ 404 0 2 218
+2015-10-18 18:30:22 172.31.22.76 GET /favicon.ico - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36 http://www.know-it.pe/ 404 0 2 281
+2015-10-18 18:36:15 172.31.22.76 GET / - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 https://www.facebook.com/ 200 0 0 171
+2015-10-18 18:36:15 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://www.know-it.pe/ 404 0 2 156
+2015-10-18 18:36:15 172.31.22.76 GET /favicon.ico - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://www.know-it.pe/ 404 0 2 171
+2015-10-18 18:38:40 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://www.know-it.pe/ 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 20:03:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 20:03:34 172.31.22.76 GET / - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - 200 0 0 296
+2015-10-18 20:03:34 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 http://know-it.pe/ 404 0 2 265
+2015-10-18 20:03:36 172.31.22.76 GET / - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - 200 0 0 250
+2015-10-18 20:03:36 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 http://know-it.pe/ 404 0 2 265
+2015-10-18 20:04:22 172.31.22.76 GET / - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - 200 0 0 296
+2015-10-18 20:04:22 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 http://know-it.pe/ 404 0 2 578
+2015-10-18 20:04:35 172.31.22.76 GET / - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - 200 0 0 281
+2015-10-18 20:04:35 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 http://www.know-it.pe/ 404 0 2 281
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 20:44:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 20:44:13 172.31.22.76 GET / - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - 200 0 0 484
+2015-10-18 20:44:13 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 http://www.know-it.pe/ 404 0 2 328
+2015-10-18 20:44:15 172.31.22.76 GET / - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - 200 0 0 609
+2015-10-18 20:44:15 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 http://www.know-it.pe/ 404 0 2 453
+2015-10-18 20:44:17 172.31.22.76 GET / - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - 200 0 0 484
+2015-10-18 20:44:17 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 http://www.know-it.pe/ 404 0 2 515
+2015-10-18 20:45:06 172.31.22.76 GET / - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - 200 0 0 296
+2015-10-18 20:45:06 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.211.84 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 http://www.know-it.pe/ 404 0 2 578
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 21:17:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 21:17:20 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 281
+2015-10-18 21:31:13 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 296
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 22:42:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 22:42:20 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 328
+2015-10-18 22:42:20 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 218
+2015-10-18 22:42:22 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 296
+2015-10-18 22:42:22 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 281
+2015-10-18 22:42:53 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 312
+2015-10-18 22:42:53 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://know-it.pe/ 404 0 2 265
+2015-10-18 22:42:57 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 234
+2015-10-18 22:42:57 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://know-it.pe/ 404 0 2 281
+2015-10-18 22:43:07 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 312
+2015-10-18 22:43:07 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://know-it.pe/ 404 0 2 296
+2015-10-18 22:43:38 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://m.facebook.com 200 0 0 203
+2015-10-18 22:43:38 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 171
+2015-10-18 22:43:43 172.31.22.76 GET / - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 - 200 0 0 250
+2015-10-18 22:43:43 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://know-it.pe/ 404 0 2 265
+2015-10-18 22:43:43 172.31.22.76 GET /favicon.ico - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://know-it.pe/ 404 0 2 250
+2015-10-18 22:45:14 172.31.22.76 GET / - 80 - 190.113.210.223 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone5,3;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/CLAROPERU;FBID/phone;FBLC/en_US;FBOP/5] http://m.facebook.com 200 0 0 1546
+2015-10-18 22:45:14 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.113.210.223 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone5,3;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/CLAROPERU;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 327
+2015-10-18 22:45:23 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 156
+2015-10-18 22:45:23 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://know-it.pe/ 404 0 2 156
+2015-10-18 22:48:49 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 203
+2015-10-18 22:53:43 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 171
+2015-10-18 22:53:45 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 171
+2015-10-18 22:53:49 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 187
+2015-10-18 22:54:21 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 23:28:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-18 23:28:23 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 218
+2015-10-18 23:28:52 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://know-it.pe/ 404 0 2 5468
+2015-10-18 23:31:26 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 203
+2015-10-18 23:31:26 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://know-it.pe/ 404 0 2 203
+2015-10-18 23:31:31 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://52.25.39.214/ 404 0 2 312
+2015-10-18 23:31:36 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 171
+2015-10-18 23:33:50 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13A452+[FBAN/MessengerForiOS;FBAV/38.0.0.22.269;FBBV/15679218;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone+OS;FBSV/9.0.2;FBSS/2;+FBCR/movistar;FBID/phone;FBLC/en_US;FBOP/5] http://know-it.pe/ 404 0 2 312
+2015-10-18 23:42:17 172.31.22.76 GET / - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 - 304 0 0 156
+2015-10-18 23:42:17 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://www.know-it.pe/ 404 0 2 156
+2015-10-18 23:42:17 172.31.22.76 GET /favicon.ico - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://www.know-it.pe/ 404 0 2 171
+2015-10-18 23:42:22 172.31.22.76 GET / - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 - 304 0 0 171
+2015-10-18 23:42:22 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://www.know-it.pe/ 404 0 2 156
+2015-10-18 23:42:55 172.31.22.76 GET / - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 0 0 171
+2015-10-18 23:42:55 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.140 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://know-it.pe/ 404 0 2 203
+2015-10-18 23:46:48 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://know-it.pe/ 404 0 2 203

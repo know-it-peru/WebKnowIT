@@ -1,0 +1,46 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-03 00:36:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-03 00:36:04 172.31.22.76 GET / - 80 - 107.150.42.35 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 173
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-03 02:44:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-03 02:44:55 172.31.22.76 GET / - 80 - 66.249.79.201 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 136
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-03 04:21:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-03 04:21:50 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 220
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-03 07:27:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-03 07:27:06 172.31.22.76 GET / - 80 - 173.252.122.122 - - 200 0 0 948
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-03 10:25:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-03 10:25:01 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 238
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-03 17:24:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-03 17:24:52 172.31.22.76 HEAD / - 80 - 185.130.5.238 curl/7.38.0 - 200 0 0 259
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-03 17:53:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-03 17:53:07 172.31.22.76 GET /robots.txt - 80 - 180.97.106.36 - - 404 0 2 262
+2016-03-03 18:08:28 172.31.22.76 GET /muieblackcat - 80 - 159.122.222.119 - - 404 0 2 224
+2016-03-03 18:08:28 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 159.122.222.119 - - 404 0 2 156
+2016-03-03 18:08:28 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 159.122.222.119 - - 404 0 2 155
+2016-03-03 18:08:30 172.31.22.76 GET /pma/scripts/setup.php - 80 - 159.122.222.119 - - 404 0 2 149
+2016-03-03 18:08:30 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 159.122.222.119 - - 404 0 2 148
+2016-03-03 18:08:30 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 159.122.222.119 - - 404 0 2 148
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-03 21:25:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-03 21:25:02 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 216

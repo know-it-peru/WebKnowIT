@@ -1,0 +1,52 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-03 00:58:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-03 00:58:58 172.31.22.76 GET / - 80 - 77.72.150.241 - - 200 0 64 284
+2016-04-03 00:59:07 172.31.22.76 GET / - 80 - 77.72.150.241 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.109+Safari/537.36 - 200 0 0 168
+2016-04-03 00:59:17 172.31.22.76 GET /CHANGELOG.txt - 80 - 77.72.150.241 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.109+Safari/537.36 - 404 0 2 163
+2016-04-03 00:59:27 172.31.22.76 GET /joomla.xml - 80 - 77.72.150.241 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.109+Safari/537.36 - 404 0 2 166
+2016-04-03 00:59:38 172.31.22.76 GET /administrator/manifests/libraries/joomla.xml - 80 - 77.72.150.241 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.109+Safari/537.36 - 404 0 2 156
+2016-04-03 00:59:48 172.31.22.76 GET / - 80 - 77.72.150.241 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 - 200 0 0 159
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-03 06:25:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-03 06:25:19 172.31.22.76 GET / - 80 - 54.206.46.18 - - 200 0 64 1066
+2016-04-03 06:25:22 172.31.22.76 GET / - 80 - 54.206.46.18 Mozilla/5.0+(Windows+NT+6.1;+rv:43.0)+Gecko/20100101+Firefox/43.0 - 200 0 0 164
+2016-04-03 06:25:23 172.31.22.76 GET /readme.html - 80 - 54.206.46.18 Mozilla/5.0+(Windows+NT+6.1;+rv:43.0)+Gecko/20100101+Firefox/43.0 - 404 0 2 166
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-03 08:44:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-03 08:44:35 172.31.22.76 GET / - 80 - 123.59.59.52 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:29.0)+Gecko/20100101+Firefox/29.0 - 200 0 0 399
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-03 12:44:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-03 12:44:45 172.31.22.76 HEAD / - 80 - 185.112.102.170 curl/7.38.0 - 200 0 0 300
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-03 13:59:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-03 13:59:57 172.31.22.76 GET / - 80 - 198.105.223.120 - - 200 0 0 193
+2016-04-03 14:00:14 172.31.22.76 GET / - 80 - 198.105.223.120 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 - 200 0 0 78
+2016-04-03 14:00:31 172.31.22.76 GET /CHANGELOG.txt - 80 - 198.105.223.120 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 - 404 0 2 76
+2016-04-03 14:00:48 172.31.22.76 GET /joomla.xml - 80 - 198.105.223.120 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.106+Safari/537.36 - 404 0 2 75
+2016-04-03 14:01:05 172.31.22.76 GET /administrator/manifests/libraries/joomla.xml - 80 - 198.105.223.120 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.106+Safari/537.36 - 404 0 2 76
+2016-04-03 14:01:22 172.31.22.76 GET / - 80 - 198.105.223.120 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.109+Safari/537.36 - 200 0 0 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-03 16:31:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-03 16:31:01 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 221
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-03 16:58:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-03 16:58:55 172.31.22.76 GET / - 80 - 199.241.29.248 - - 200 0 64 193
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-03 18:45:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-03 18:45:02 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234

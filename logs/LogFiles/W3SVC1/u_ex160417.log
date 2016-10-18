@@ -1,0 +1,31 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-17 01:01:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-17 01:01:08 172.31.22.76 GET /manager/html - 80 - 101.251.229.132 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 1118
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-17 05:00:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-17 05:00:20 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 233
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-17 05:25:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-17 05:25:40 172.31.22.76 GET / - 80 - 5.39.222.159 Mozilla/5.0+zgrab/0.x - 200 0 0 266
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-17 12:02:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-17 12:02:00 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 313
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-17 15:02:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-17 15:02:14 172.31.22.76 GET / - 80 - 208.100.26.230 - - 200 0 64 281
+2016-04-17 15:02:27 172.31.22.76 HEAD / - 80 - 208.100.26.230 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+http://nmap.org/book/nse.html) - 200 0 0 96
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-17 16:14:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-17 16:14:54 172.31.22.76 GET /manager/html - 80 - 101.251.229.132 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) - 404 0 64 1234

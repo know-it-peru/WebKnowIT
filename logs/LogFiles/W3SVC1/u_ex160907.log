@@ -1,0 +1,36 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-07 04:30:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-07 04:30:05 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 579
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-07 13:01:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-07 13:01:57 172.31.22.76 GET / - 80 - 173.252.90.121 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 304 0 0 981
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-07 15:01:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-07 15:01:35 172.31.22.76 GET / - 80 - 98.143.148.107 Mozilla/5.0+Project+25499+(project25499.com) - 200 0 0 159
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-07 17:28:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-07 17:28:39 172.31.22.76 GET / - 80 - 141.212.122.49 Mozilla/5.0+zgrab/0.x - 200 0 0 297
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-07 18:08:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-07 18:08:16 172.31.22.76 HEAD /check_proxy - 80 - 180.97.106.161 - - 404 0 64 1050
+2016-09-07 18:19:37 172.31.22.76 GET /robots.txt - 80 - 204.93.154.212 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.94+Safari/537.36 - 404 0 2 51
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-07 21:19:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-07 21:19:24 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 239
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-07 22:56:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-07 22:56:28 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 244

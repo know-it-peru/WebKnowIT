@@ -1,0 +1,56 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 00:02:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 00:02:46 172.31.22.76 GET /w00tw00t.at.blackhats.romanian.anti-sec:) - 80 - 45.32.236.224 ZmEu - 404 0 2 197
+2016-02-21 00:02:46 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 45.32.236.224 ZmEu - 404 0 2 149
+2016-02-21 00:02:46 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 45.32.236.224 ZmEu - 404 0 2 149
+2016-02-21 00:02:46 172.31.22.76 GET /pma/scripts/setup.php - 80 - 45.32.236.224 ZmEu - 404 0 2 148
+2016-02-21 00:02:48 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 45.32.236.224 ZmEu - 404 0 2 151
+2016-02-21 00:02:48 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 45.32.236.224 ZmEu - 404 0 2 149
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 09:49:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 09:49:58 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 241
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 12:41:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 12:41:21 172.31.22.76 GET /testproxy.php - 80 - 94.185.83.100 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 236
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 13:03:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 13:03:55 172.31.22.76 HEAD / - 80 - 54.162.124.221 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 900
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 15:44:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 15:44:57 172.31.22.76 GET / - 80 - 54.185.231.16 - - 200 0 0 118
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 16:35:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 16:35:10 172.31.22.76 GET /script - 80 - 219.140.56.162 python-requests/2.7.0+CPython/2.7.0+Windows/2008ServerR2 - 404 0 64 648
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 17:50:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 17:50:35 172.31.22.76 GET /mysql/scripts/setup.php - 80 - 89.163.251.200 - - 404 0 2 537
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 18:34:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 18:34:31 172.31.22.76 GET /robots.txt - 80 - 207.46.13.4 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 58
+2016-02-21 18:34:40 172.31.22.76 GET / - 80 - 207.46.13.4 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 0 0 89
+2016-02-21 18:34:53 172.31.22.76 GET /tools/style.css - 80 - 157.55.39.28 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 0 0 16
+2016-02-21 18:34:57 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 157.55.39.239 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 0 0 67
+2016-02-21 18:35:02 172.31.22.76 GET /tools/960.css - 80 - 207.46.13.99 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 0 0 13
+2016-02-21 18:40:04 172.31.22.76 GET /robots.txt - 80 - 157.55.39.28 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 13
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-21 20:25:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-21 20:25:28 172.31.22.76 GET / - 80 - 208.100.26.229 - - 200 0 0 172
+2016-02-21 20:25:53 172.31.22.76 HEAD / - 80 - 208.100.26.229 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+http://nmap.org/book/nse.html) - 200 0 0 91

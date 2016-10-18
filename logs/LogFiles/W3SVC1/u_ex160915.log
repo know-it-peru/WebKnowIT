@@ -1,0 +1,42 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-15 06:52:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-15 06:52:42 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 4636
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-15 07:19:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-15 07:19:44 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 698
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-15 08:06:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-15 08:06:12 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 892
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-15 10:20:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-15 10:20:16 172.31.22.76 GET /xmlrpc.php - 80 - 191.96.249.80 Mozilla/5.0+zgrab/0.x - 404 0 2 5982
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-15 17:18:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-15 17:18:25 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 819
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-15 18:16:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-15 18:16:03 172.31.22.76 GET / - 80 - 128.232.110.28 Mozilla/5.0+zgrab/0.x - 200 0 0 2902
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-15 20:27:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-15 20:27:12 172.31.22.76 GET / - 80 - 104.128.144.131 www.probethenet.com+scanner - 200 0 0 1264
+2016-09-15 20:27:12 172.31.22.76 HEAD /redirect.php - 80 - 104.128.144.131 www.probethenet.com+scanner - 404 0 2 32
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-15 21:26:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-15 21:26:30 172.31.22.76 GET /robots.txt - 80 - 64.246.161.30 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) - 404 0 2 417
+2016-09-15 21:26:30 172.31.22.76 GET / - 80 - 64.246.161.30 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) http://whois.domaintools.com/know-it.pe 200 0 0 771

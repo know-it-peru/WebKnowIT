@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-18 21:03:40
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem sc-status sc-win32-status sc-substatus x-session x-fullpath
+2015-10-18 21:03:40 127.0.0.1 - 127.0.0.1 21 ControlChannelOpened - - 0 0 23993c35-2fc7-499f-9749-c6e3f15bc6cd -
+2015-10-18 21:03:43 127.0.0.1 - 127.0.0.1 21 ControlChannelClosed - - 64 0 23993c35-2fc7-499f-9749-c6e3f15bc6cd -

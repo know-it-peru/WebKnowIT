@@ -1,0 +1,28 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 00:32:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-11 00:32:28 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 475
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 01:54:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-11 01:54:57 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 239
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 18:24:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-11 18:24:54 172.31.22.76 OPTIONS / - 80 - 218.92.147.79 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2357.134+Safari/537.36+QQBrowser/3.8.3858.400 - 200 0 0 419
+2016-09-11 18:25:10 172.31.22.76 GET /templets/default/style/dedecms.css - 80 - 218.92.147.79 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2357.134+Safari/537.36+QQBrowser/3.8.3858.400 http://52.25.39.214 404 0 2 289
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 19:26:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-11 19:26:53 172.31.22.76 GET / - 80 - 222.186.21.35 python-requests/2.7.0+CPython/2.7.0+Windows/2003Server - 200 0 0 2001
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 23:52:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-11 23:52:31 172.31.22.76 GET /robots.txt - 80 - 66.249.64.72 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 212
+2016-09-11 23:52:31 172.31.22.76 GET / - 80 - 66.249.64.77 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 829
+2016-09-11 23:52:36 172.31.22.76 GET / - 80 - 66.249.64.72 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 76

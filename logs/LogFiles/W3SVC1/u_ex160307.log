@@ -1,0 +1,48 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 01:55:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 01:55:08 172.31.22.76 GET /robots.txt - 80 - 66.249.74.54 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 59
+2016-03-07 01:55:08 172.31.22.76 GET / - 80 - 66.249.74.58 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12F70+Safari/600.1.4+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 90
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 08:01:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 08:01:18 172.31.22.76 GET /robots.txt - 80 - 64.246.161.30 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) - 404 0 2 125
+2016-03-07 08:01:18 172.31.22.76 GET / - 80 - 64.246.161.30 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) http://whois.domaintools.com/know-it.pe 200 0 0 196
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 09:00:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 09:00:35 172.31.22.76 GET / - 80 - 213.128.81.66 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 200 0 0 1205
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 11:36:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 11:36:06 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 232
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 13:51:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 13:51:24 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 225
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 15:01:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 15:01:56 172.31.22.76 HEAD / - 80 - 54.162.124.221 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 205
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 20:58:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 20:58:16 172.31.22.76 GET / - 80 - 66.249.83.140 Mozilla/5.0+(Windows+NT+6.1;+rv:6.0)+Gecko/20110814+Firefox/6.0+Google+Favicon - 200 0 0 197
+2016-03-07 20:58:16 172.31.22.76 GET /favicon.ico - 80 - 66.249.83.140 Mozilla/5.0+(Windows+NT+6.1;+rv:6.0)+Gecko/20110814+Firefox/6.0+Google+Favicon - 200 0 0 120
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 21:35:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 21:35:33 172.31.22.76 GET / - 80 - 51.254.44.137 - - 200 0 0 292
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-07 22:10:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-07 22:10:31 172.31.22.76 POST /404 - 80 - 61.216.2.13 apache - 404 0 2 638

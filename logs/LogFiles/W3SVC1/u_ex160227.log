@@ -1,0 +1,36 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-27 04:29:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-27 04:29:44 172.31.22.76 HEAD /admin - 80 - 63.246.134.224 - - 404 0 2 235
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-27 10:03:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-27 10:03:48 172.31.22.76 GET /manager/html - 80 - 23.234.5.92 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 799
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-27 12:33:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-27 12:33:36 172.31.22.76 GET /manager/html - 80 - 23.234.5.92 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 159
+2016-02-27 12:38:42 172.31.22.76 GET /w00tw00t.at.blackhats.romanian.anti-sec:) - 80 - 162.213.152.24 ZmEu - 404 0 2 101
+2016-02-27 12:38:42 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 162.213.152.24 ZmEu - 404 0 2 99
+2016-02-27 12:38:42 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 162.213.152.24 ZmEu - 404 0 2 100
+2016-02-27 12:38:42 172.31.22.76 GET /pma/scripts/setup.php - 80 - 162.213.152.24 ZmEu - 404 0 2 84
+2016-02-27 12:38:42 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 162.213.152.24 ZmEu - 404 0 2 101
+2016-02-27 12:38:42 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 162.213.152.24 ZmEu - 404 0 2 84
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-27 18:12:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-27 18:12:26 172.31.22.76 POST /loginUI.action - 80 - 60.214.152.78 Mozilla/5.0 - 404 0 64 443
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-27 19:32:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-27 19:32:17 172.31.22.76 POST /index.login.action - 80 - 60.214.152.78 Mozilla/5.0 - 404 0 2 402
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-27 21:41:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-27 21:41:31 172.31.22.76 POST /doLogin.do - 80 - 60.214.152.78 Mozilla/5.0 - 404 0 2 406

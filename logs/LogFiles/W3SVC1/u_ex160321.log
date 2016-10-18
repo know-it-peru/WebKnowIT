@@ -1,0 +1,55 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 03:03:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 03:03:00 172.31.22.76 HEAD / - 80 - 54.161.51.139 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 937
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 06:32:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 06:32:27 172.31.22.76 GET /manager/html - 80 - 218.55.21.53 Mozilla/5.0+(Windows+NT+5.1;+rv:5.0)+Gecko/20100101+Firefox/5.0 - 404 0 64 1145
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 11:27:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 11:27:22 172.31.22.76 HEAD / - 80 - 54.196.104.181 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 200
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 12:42:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 12:42:00 172.31.22.76 GET / - 80 - 208.100.26.231 - - 200 0 64 179
+2016-03-21 12:43:49 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 194
+2016-03-21 12:44:11 172.31.22.76 HEAD / - 80 - 208.100.26.231 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+http://nmap.org/book/nse.html) - 200 0 0 91
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 13:46:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 13:46:29 172.31.22.76 GET /muieblackcat - 80 - 40.114.43.252 - - 404 0 2 205
+2016-03-21 13:46:29 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 40.114.43.252 - - 404 0 2 90
+2016-03-21 13:46:29 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 40.114.43.252 - - 404 0 2 82
+2016-03-21 13:46:31 172.31.22.76 GET /pma/scripts/setup.php - 80 - 40.114.43.252 - - 404 0 2 80
+2016-03-21 13:46:31 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 40.114.43.252 - - 404 0 2 87
+2016-03-21 13:46:31 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 40.114.43.252 - - 404 0 2 85
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 14:27:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 14:27:52 172.31.22.76 GET /rom-0 - 80 - 5.39.222.159 Mozilla/5.0+zgrab/0.x - 404 0 2 260
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 20:03:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 20:03:49 172.31.22.76 GET /robots.txt - 80 - 66.249.74.54 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 58
+2016-03-21 20:03:49 172.31.22.76 GET /tools/960.css - 80 - 66.249.74.56 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 17
+2016-03-21 20:03:50 172.31.22.76 GET /tools/style.css - 80 - 66.249.74.56 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 16
+2016-03-21 20:03:50 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.74.54 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 17
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 20:25:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 20:25:00 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 85.131.207.5 - - 404 0 2 205
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-21 23:26:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-21 23:26:34 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 85.131.207.5 - - 404 0 2 205

@@ -1,0 +1,133 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 00:10:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 00:10:23 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 02:44:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 02:44:22 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 203
+2015-11-29 02:52:45 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 04:20:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 04:20:48 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 202
+2015-11-29 04:20:59 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 04:56:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 04:56:34 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 07:05:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 07:05:16 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 07:49:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 07:49:25 172.31.22.76 GET /images/social.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 187
+2015-11-29 07:59:22 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 09:11:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 09:11:02 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 249
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 09:44:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 09:44:57 172.31.22.76 GET / - 80 - 173.252.114.117 - - 200 0 0 546
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 10:16:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 10:16:31 172.31.22.76 GET /favicon.ico - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 11:12:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 11:12:59 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+2015-11-29 11:16:16 172.31.22.76 GET / - 80 - 199.30.228.149 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10.5;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+GTB7.1 - 200 0 0 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 11:46:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 11:46:00 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 218
+2015-11-29 12:00:17 172.31.22.76 GET /images/bg.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 13:02:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 13:02:37 172.31.22.76 GET / - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 281
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 14:02:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 14:02:46 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 15:33:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 15:33:37 172.31.22.76 GET /robots.txt - 80 - 66.249.66.126 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 109
+2015-11-29 15:33:37 172.31.22.76 GET /mobile/ - 80 - 66.249.66.126 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12F70+Safari/600.1.4+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 187
+2015-11-29 15:40:04 172.31.22.76 GET /m/ - 80 - 66.249.66.126 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12F70+Safari/600.1.4+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 62
+2015-11-29 15:45:37 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 171
+2015-11-29 15:58:59 172.31.22.76 GET /tools/960.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 18:06:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 18:06:59 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 18:45:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 18:45:07 172.31.22.76 GET / - 80 - 1.171.47.140 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - 200 0 0 296
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 19:22:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 19:22:22 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 20:26:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 20:26:54 172.31.22.76 GET / - 80 - 66.249.88.120 Google+favicon - 200 0 0 187
+2015-11-29 20:26:54 172.31.22.76 GET /favicon.ico - 80 - 66.249.88.22 Google+favicon - 200 0 0 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 20:44:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 20:44:45 172.31.22.76 GET /images/logo.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 156
+2015-11-29 20:45:23 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 21:25:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 21:25:35 172.31.22.76 GET / - 80 - 66.249.66.122 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12F70+Safari/600.1.4+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 22:03:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 22:03:38 172.31.22.76 GET /images/watch.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 218
+2015-11-29 22:11:11 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 22:42:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 22:42:47 172.31.22.76 GET / - 80 - 198.101.242.72 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.0;+Trident/4.0;+InfoPath.8) - 200 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 23:18:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 23:18:48 172.31.22.76 GET /tools/style.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-11-29 23:54:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-11-29 23:54:53 172.31.22.76 GET / - 80 - 66.249.88.99 Google+favicon - 200 0 0 187
+2015-11-29 23:54:53 172.31.22.76 GET /favicon.ico - 80 - 66.249.88.119 Google+favicon - 200 0 0 62

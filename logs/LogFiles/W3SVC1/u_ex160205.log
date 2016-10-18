@@ -1,0 +1,42 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-05 00:13:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-05 00:13:14 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-05 03:34:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-05 03:34:36 172.31.22.76 HEAD /irj/portal - 80 - 37.187.114.171 - - 404 0 2 328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-05 10:10:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-05 10:10:42 172.31.22.76 GET / - 80 - 193.109.69.251 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.16)+Gecko/20110319+Firefox/40 - 200 0 0 999
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-05 10:47:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-05 10:47:50 172.31.22.76 GET /robots.txt - 80 - 66.249.74.58 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 46
+2016-02-05 10:47:50 172.31.22.76 GET / - 80 - 66.249.74.56 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12F70+Safari/600.1.4+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-05 11:31:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-05 11:31:19 172.31.22.76 GET /w00tw00t.at.blackhats.romanian.anti-sec:) - 80 - 40.118.22.221 ZmEu - 404 0 2 187
+2016-02-05 11:31:19 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 40.118.22.221 ZmEu - 404 0 2 156
+2016-02-05 11:31:19 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 40.118.22.221 ZmEu - 404 0 2 156
+2016-02-05 11:31:19 172.31.22.76 GET /pma/scripts/setup.php - 80 - 40.118.22.221 ZmEu - 404 0 2 156
+2016-02-05 11:31:20 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 40.118.22.221 ZmEu - 404 0 2 156
+2016-02-05 11:31:20 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 40.118.22.221 ZmEu - 404 0 2 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-05 12:56:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-05 12:56:37 172.31.22.76 GET / - 80 - 216.55.186.43 - - 200 0 0 171
+2016-02-05 12:57:07 172.31.22.76 GET / - 80 - 216.55.186.43 - - 200 0 0 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-05 21:11:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-05 21:11:42 172.31.22.76 POST /login.action - 80 - 60.214.152.78 Mozilla/5.0 - 404 0 2 468

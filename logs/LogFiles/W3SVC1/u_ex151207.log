@@ -1,0 +1,121 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 00:09:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 00:09:10 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 01:38:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 01:38:32 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 02:26:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 02:26:26 172.31.22.76 GET /images/social.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 218
+2015-12-07 02:35:09 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 03:11:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 03:11:09 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 03:48:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 03:48:03 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 04:38:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 04:38:58 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 203
+2015-12-07 04:53:32 172.31.22.76 GET /favicon.ico - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 05:17:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 05:17:20 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 06:37:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 06:37:18 172.31.22.76 GET /images/bg.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 07:39:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 07:39:39 172.31.22.76 GET / - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 781
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 09:00:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 09:00:53 172.31.22.76 GET /manager/html - 80 - 222.186.21.112 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 64 374
+2015-12-07 09:04:31 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 09:40:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 09:40:32 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 202
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 10:22:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 10:22:44 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+2015-12-07 10:36:00 172.31.22.76 GET /tools/960.css - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 10:53:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 10:53:43 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 156
+2015-12-07 10:58:07 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 11:49:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 11:49:33 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 14:37:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 14:37:32 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 15:21:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 15:21:46 172.31.22.76 GET /images/logo.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 16:40:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 16:40:39 172.31.22.76 GET /images/watch.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 17:09:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 17:09:45 172.31.22.76 GET / - 80 - 173.252.90.99 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 17:29:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 17:29:09 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 17:55:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 17:55:49 172.31.22.76 GET /tools/style.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 203
+2015-12-07 18:04:44 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 18:20:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 18:20:12 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 21:59:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 21:59:43 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-12-07 23:57:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-12-07 23:57:09 172.31.22.76 GET /httptest.php - 80 - 62.210.88.201 - - 404 0 2 187

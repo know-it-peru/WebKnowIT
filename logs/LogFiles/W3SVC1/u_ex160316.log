@@ -1,0 +1,61 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 04:36:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 04:36:36 172.31.22.76 POST /azenv.php auth=145810303399&a=PSCMN&i=874063830&p=80 80 - 95.213.177.122 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0) https://proxyradar.com/ 404 0 2 367
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 05:42:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 05:42:30 172.31.22.76 GET /manager/html - 80 - 222.186.46.65 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 64 2021
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 06:01:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 06:01:14 172.31.22.76 GET /robots.txt - 80 - 66.249.64.86 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 82
+2016-03-16 06:01:14 172.31.22.76 GET / - 80 - 66.249.64.86 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 88
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 06:30:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 06:30:29 172.31.22.76 GET / - 80 - 141.212.122.145 Mozilla/5.0+zgrab/0.x - 200 0 0 359
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 08:58:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 08:58:58 172.31.22.76 POST /azenv.php auth=145811877579&a=PSCMN&i=874063830&p=80 80 - 95.213.177.125 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0) https://proxyradar.com/ 404 0 2 268
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 12:05:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 12:05:45 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 232
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 15:00:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 15:00:12 172.31.22.76 POST /azenv.php auth=145814045017&a=PSCMN&i=874063830&p=80 80 - 95.213.177.123 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0) https://proxyradar.com/ 404 0 2 263
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 17:54:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 17:54:27 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 232
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 18:50:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 18:50:39 172.31.22.76 GET /manager/html - 80 - 222.186.46.65 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 64 1177
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 19:24:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 19:24:41 172.31.22.76 POST /azenv.php auth=145815631967&a=PSCMN&i=874063830&p=80 80 - 95.213.177.124 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0) https://proxyradar.com/ 404 0 2 264
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 22:11:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 22:11:53 172.31.22.76 GET / - 80 - 205.209.140.180 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+5.0) - 200 0 64 152
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-16 23:54:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-16 23:54:04 172.31.22.76 POST /azenv.php auth=145817248261&a=PSCMN&i=874063830&p=80 80 - 95.213.177.125 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0) https://proxyradar.com/ 404 0 2 268

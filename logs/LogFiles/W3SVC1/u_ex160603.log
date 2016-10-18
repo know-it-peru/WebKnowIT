@@ -1,0 +1,48 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-03 00:27:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-03 00:27:24 172.31.22.76 GET /robots.txt - 80 - 66.249.65.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 107
+2016-06-03 00:27:24 172.31.22.76 GET / - 80 - 66.249.65.30 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 137
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-03 08:50:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-03 08:50:18 172.31.22.76 GET /xmlrpc.php - 80 - 92.222.246.137 - - 404 0 2 629
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-03 09:53:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-03 09:53:43 172.31.22.76 POST /azenv.php auth=146494768507&a=PSCMN&i=874063830&p=80 80 - 95.213.177.124 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0) https://proxyradar.com/ 404 0 2 267
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-03 10:32:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-03 10:32:19 172.31.22.76 GET / - 80 - 66.249.65.27 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 864
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-03 12:42:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-03 12:42:38 172.31.22.76 GET /robots.txt - 80 - 66.249.79.168 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 60
+2016-06-03 12:42:38 172.31.22.76 GET / - 80 - 66.249.79.168 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 88
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-03 14:16:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-03 14:16:14 172.31.22.76 GET /phpMyAdmin - 80 - 211.140.169.244 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) http://52.25.39.214/phpMyAdmin 404 0 2 1235
+2016-06-03 14:21:18 172.31.22.76 POST /azenv.php auth=146496374083&a=PSCMN&i=874063830&p=80 80 - 95.213.177.126 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0) https://proxyradar.com/ 404 0 2 220
+2016-06-03 14:26:15 172.31.22.76 GET /robots.txt - 80 - 66.249.79.222 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 13
+2016-06-03 14:26:15 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.79.208 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 17
+2016-06-03 14:26:16 172.31.22.76 GET /tools/style.css - 80 - 66.249.79.208 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 15
+2016-06-03 14:26:16 172.31.22.76 GET /tools/960.css - 80 - 66.249.79.215 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 17
+2016-06-03 14:34:57 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-03 16:53:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-03 16:53:29 172.31.22.76 GET / - 80 - 141.212.122.161 Go+http+package - 200 0 0 179
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-03 19:31:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-03 19:31:22 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 233

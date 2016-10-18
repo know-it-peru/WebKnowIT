@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-21 00:16:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-21 00:16:34 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 231
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-21 01:08:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-21 01:08:41 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 221
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-21 11:28:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-21 11:28:27 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 241
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-21 15:49:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-21 15:49:51 172.31.22.76 GET / - 80 - 190.43.24.38 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 1067
+2016-07-21 15:49:51 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.43.24.38 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 http://know-it.pe/ 200 0 0 160
+2016-07-21 15:49:51 172.31.22.76 GET /tools/style.css - 80 - 190.43.24.38 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 http://know-it.pe/ 200 0 0 185
+2016-07-21 15:49:51 172.31.22.76 GET /tools/960.css - 80 - 190.43.24.38 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 http://know-it.pe/ 200 0 0 161
+2016-07-21 15:49:51 172.31.22.76 GET /images/bg.png - 80 - 190.43.24.38 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 162
+2016-07-21 15:49:55 172.31.22.76 GET /favicon.ico - 80 - 190.43.24.38 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 http://know-it.pe/ 200 0 0 159
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-21 16:18:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-21 16:18:25 172.31.22.76 GET / - 80 - 141.212.122.32 Mozilla/5.0+zgrab/0.x - 200 0 0 184
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-21 17:48:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-21 17:48:40 172.31.22.76 GET /check_proxy - 80 - 180.97.106.161 - - 404 0 2 337
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-21 19:47:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-21 19:47:28 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 191.96.249.42 - - 404 0 2 198

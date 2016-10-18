@@ -1,0 +1,45 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-30 00:42:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-30 00:42:32 172.31.22.76 GET /robots.txt - 80 - 66.249.69.243 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 95
+2016-05-30 00:42:32 172.31.22.76 GET / - 80 - 66.249.69.253 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 128
+2016-05-30 00:55:01 172.31.22.76 GET / - 80 - 66.249.69.251 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 50
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-30 01:52:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-30 01:52:06 172.31.22.76 GET / - 80 - 66.249.69.248 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 171
+2016-05-30 01:53:19 172.31.22.76 GET /tools/960.css - 80 - 66.249.69.243 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 52
+2016-05-30 01:53:19 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.69.248 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 51
+2016-05-30 01:53:19 172.31.22.76 GET /tools/style.css - 80 - 66.249.69.248 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 50
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-30 02:52:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-30 02:52:42 172.31.22.76 GET / - 80 - 66.249.69.248 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 170
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-30 05:38:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-30 05:38:42 172.31.22.76 GET /manager/html - 80 - 220.167.100.13 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 64 1335
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-30 15:09:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-30 15:09:22 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-30 16:00:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-30 16:00:37 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 244
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-30 18:03:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-30 18:03:32 172.31.22.76 GET / - 80 - 123.59.59.52 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:29.0)+Gecko/20100101+Firefox/29.0 - 200 0 0 1095
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-30 23:49:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-30 23:49:42 172.31.22.76 GET /xmlrpc.php - 80 - 89.248.174.55 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Ubuntu+Chromium/50.0.2661.102+Chrome/50.0.2661.102+Safari/537.36 - 404 0 2 198

@@ -1,0 +1,64 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 09:52:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 09:52:05 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 405
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 11:19:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 11:19:55 172.31.22.76 GET / - 80 - 80.82.78.85 - - 200 0 0 1028
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 15:44:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 15:44:12 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 225
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 16:11:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 16:11:10 172.31.22.76 GET /myipha.php rnd=320c39084a61ab518d773518747bdf5e&rn=146825356105060 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 252
+2016-07-11 16:11:11 172.31.22.76 GET /myiphc.php rnd=320c39084a61ab518d773518747bdf5e&rn=146825356150934 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 209
+2016-07-11 16:11:11 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146825356192882 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 205
+2016-07-11 16:11:11 172.31.22.76 GET /myiphc.php rnd=320c39084a61ab518d773518747bdf5e&rn=146825356234004 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 201
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 18:16:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 18:16:55 172.31.22.76 GET /myipha.php rnd=320c39084a61ab518d773518747bdf5e&rn=146826110582923 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 251
+2016-07-11 18:16:56 172.31.22.76 GET /myiphc.php rnd=320c39084a61ab518d773518747bdf5e&rn=146826110628891 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 209
+2016-07-11 18:16:56 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146826110670914 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 205
+2016-07-11 18:16:56 172.31.22.76 GET /myiphc.php rnd=320c39084a61ab518d773518747bdf5e&rn=146826110712000 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 209
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 18:52:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 18:52:32 172.31.22.76 GET /w00tw00t.at.blackhats.romanian.anti-sec:) - 80 - 208.69.31.121 Msqq - 404 0 2 133
+2016-07-11 18:52:32 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 208.69.31.121 Msqq - 404 0 2 88
+2016-07-11 18:52:39 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 208.69.31.121 Msqq - 404 0 2 88
+2016-07-11 18:52:39 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 208.69.31.121 Msqq - 404 0 2 87
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 19:36:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 19:36:27 172.31.22.76 GET /w00tw00t.at.blackhats.romanian.anti-sec:) - 80 - 198.154.63.36 Msqq - 404 0 2 134
+2016-07-11 19:36:27 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 198.154.63.36 Msqq - 404 0 2 88
+2016-07-11 19:36:30 172.31.22.76 GET /pma/scripts/setup.php - 80 - 198.154.63.36 Msqq - 404 0 2 89
+2016-07-11 19:36:30 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 198.154.63.36 Msqq - 404 0 2 92
+2016-07-11 19:36:30 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 198.154.63.36 Msqq - 404 0 2 88
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 20:59:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 20:59:34 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146827086572298 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 247
+2016-07-11 20:59:35 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146827086617266 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 205
+2016-07-11 20:59:35 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146827086658527 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 210
+2016-07-11 20:59:35 172.31.22.76 GET /myiphd.php rnd=320c39084a61ab518d773518747bdf5e&rn=146827086701070 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 204
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-11 22:57:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-11 22:57:13 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146827792473288 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 248
+2016-07-11 22:57:14 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146827792518708 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 207
+2016-07-11 22:57:14 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146827792560353 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 199
+2016-07-11 22:57:14 172.31.22.76 GET /myiphd.php rnd=320c39084a61ab518d773518747bdf5e&rn=146827792600392 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 206

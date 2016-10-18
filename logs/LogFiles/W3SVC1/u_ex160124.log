@@ -1,0 +1,149 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 00:01:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 00:01:49 172.31.22.76 GET /web-console/ServerInfo.jsp - 80 - 23.234.26.101 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+2Pac;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022) 52.25.39.214:80/web-console/ServerInfo.jsp 404 0 2 2881
+2016-01-24 00:02:14 172.31.22.76 GET /jmx-console/HtmlAdaptor action=inspectMBean&name=jboss.system:type=ServerInfo 80 - 23.234.26.101 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+2Pac;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022) http://52.25.39.214:80/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo 404 0 2 2232
+2016-01-24 00:02:36 172.31.22.76 GET /invoker/JMXInvokerServlet - 80 - 23.234.26.101 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+2Pac;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022) 52.25.39.214:80/invoker/JMXInvokerServlet 404 0 2 789
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 00:52:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 00:52:44 172.31.22.76 GET /admin/ - 80 - 208.52.154.240 - - 404 0 2 4461
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 01:37:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 01:37:40 172.31.22.76 GET /tools/960.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 2496
+2016-01-24 01:42:38 172.31.22.76 GET /moadmin.php - 80 - 208.52.154.243 - - 404 0 2 1732
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 06:19:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 06:19:01 172.31.22.76 GET /catalog/admin/orders.php/login.php - 80 - 208.52.161.99 - - 404 0 2 9636
+2016-01-24 06:23:24 172.31.22.76 GET /images/logo.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 589
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 07:42:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 07:42:18 172.31.22.76 GET /images/watch.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 1891
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 08:12:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 08:12:15 172.31.22.76 GET /robots.txt - 80 - 66.249.64.86 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 2555
+2016-01-24 08:15:33 172.31.22.76 GET / - 80 - 66.249.64.86 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 64 198212
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 08:57:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 08:57:29 172.31.22.76 GET /tools/style.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 2671
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 12:15:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 12:15:20 172.31.22.76 GET /manager/html - 80 - 176.117.40.23 Mozilla/5.0+(Windows+NT+5.1;+rv:5.0)+Gecko/20100101+Firefox/5.0 - 404 0 64 5572
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 15:01:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 15:01:59 172.31.22.76 GET / - 80 - 66.249.88.120 Mozilla/5.0+(Windows+NT+6.1;+rv:6.0)+Gecko/20110814+Firefox/6.0+Google+Favicon - 200 0 0 5500
+2016-01-24 15:02:00 172.31.22.76 GET /favicon.ico - 80 - 66.249.88.22 Mozilla/5.0+(Windows+NT+6.1;+rv:6.0)+Gecko/20110814+Firefox/6.0+Google+Favicon - 200 0 0 690
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 15:31:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 15:31:37 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 2914
+2016-01-24 15:34:19 172.31.22.76 GET /testproxy.php - 80 - 94.185.83.100 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 415
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 15:53:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 15:53:04 172.31.22.76 GET / - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 200 0 0 2583
+2016-01-24 15:53:04 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 820
+2016-01-24 15:53:04 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 613
+2016-01-24 15:53:04 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 613
+2016-01-24 15:53:07 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/tools/style.css 200 0 0 902
+2016-01-24 15:53:07 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/tools/style.css 200 0 0 902
+2016-01-24 15:53:07 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/tools/style.css 200 0 0 1109
+2016-01-24 15:53:07 172.31.22.76 GET /images/social.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/tools/style.css 200 0 0 947
+2016-01-24 15:53:08 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 819
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 16:17:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 16:17:01 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 2549
+2016-01-24 16:17:01 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 2549
+2016-01-24 16:17:01 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 2757
+2016-01-24 16:17:03 172.31.22.76 GET / - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 200 0 0 4404
+2016-01-24 16:17:03 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 304 0 0 406
+2016-01-24 16:17:04 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 304 0 0 821
+2016-01-24 16:17:04 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 304 0 0 821
+2016-01-24 16:17:06 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 248
+2016-01-24 16:17:26 172.31.22.76 GET / - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 304 0 0 1065
+2016-01-24 16:17:26 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 304 0 0 614
+2016-01-24 16:17:26 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 304 0 0 614
+2016-01-24 16:17:26 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 304 0 0 822
+2016-01-24 16:17:27 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://52.25.39.214/ 200 0 0 406
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 16:47:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 16:47:43 172.31.22.76 GET /images/social.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 2006
+2016-01-24 16:56:12 172.31.22.76 GET / - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 304 0 0 2422
+2016-01-24 16:56:12 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 406
+2016-01-24 16:56:13 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 817
+2016-01-24 16:56:13 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 817
+2016-01-24 16:56:13 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 405
+2016-01-24 16:56:13 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 612
+2016-01-24 16:56:14 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 815
+2016-01-24 16:56:14 172.31.22.76 GET /images/social.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 1017
+2016-01-24 16:56:15 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 616
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 17:13:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 17:13:21 172.31.22.76 GET / - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 - 200 0 0 612
+2016-01-24 17:13:21 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 http://know-it.pe/ 200 0 0 612
+2016-01-24 17:13:21 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 http://know-it.pe/ 200 0 0 616
+2016-01-24 17:13:22 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 http://know-it.pe/ 200 0 0 609
+2016-01-24 17:13:22 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 652
+2016-01-24 17:13:22 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 652
+2016-01-24 17:13:23 172.31.22.76 GET /images/social.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 859
+2016-01-24 17:13:23 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 1678
+2016-01-24 17:13:25 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.205 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.82+Safari/537.36 http://know-it.pe/ 200 0 0 819
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 18:09:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 18:09:20 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 2105
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 19:14:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 19:14:49 172.31.22.76 GET /favicon.ico - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 2224
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 20:33:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 20:33:02 172.31.22.76 GET / - 80 - 173.252.90.96 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 4836
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 20:49:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 20:49:42 172.31.22.76 POST /register.do - 80 - 60.214.152.78 Mozilla/5.0 - 404 0 2 815
+2016-01-24 20:58:34 172.31.22.76 GET /images/bg.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 414
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 22:00:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 22:00:58 172.31.22.76 GET / - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 4160
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-24 22:54:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-24 22:54:20 172.31.22.76 GET /robots.txt - 80 - 66.249.64.79 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 2667
+2016-01-24 22:54:23 172.31.22.76 GET / - 80 - 66.249.64.74 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 2505
+2016-01-24 22:54:34 172.31.22.76 GET /tools/style.css - 80 - 66.249.64.74 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 410
+2016-01-24 22:54:34 172.31.22.76 GET /tools/960.css - 80 - 66.249.64.69 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 410
+2016-01-24 22:54:36 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.64.69 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 409

@@ -1,0 +1,29 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-03 04:18:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-03 04:18:00 172.31.22.76 GET / - 80 - 31.13.102.127 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 0 0 999
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-03 06:38:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-03 06:38:58 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 208.52.161.99 - - 404 0 2 281
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-03 08:51:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-03 08:51:50 172.31.22.76 GET / - 80 - 141.212.122.177 Mozilla/5.0+zgrab/0.x - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-03 09:33:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-03 09:33:05 172.31.22.76 GET /robots.txt - 80 - 66.249.74.54 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 46
+2016-02-03 09:33:05 172.31.22.76 GET /tools/style.css - 80 - 66.249.74.56 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 15
+2016-02-03 09:33:06 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.74.54 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 31
+2016-02-03 09:33:06 172.31.22.76 GET /tools/960.css - 80 - 66.249.74.58 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 15
+2016-02-03 09:38:44 172.31.22.76 GET / - 80 - 89.248.174.4 - - 200 0 0 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-03 20:29:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-03 20:29:33 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234

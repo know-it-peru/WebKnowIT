@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-27 00:12:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-27 00:12:34 172.31.22.76 GET / - 80 - 173.252.115.90 - - 200 0 0 199
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-27 07:27:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-27 07:27:58 172.31.22.76 HEAD / - 80 - 111.93.159.34 - - 200 0 0 1249
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-27 14:23:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-27 14:23:38 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 236
+2016-05-27 14:23:43 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 190
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-27 16:21:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-27 16:21:32 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-27 17:42:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-27 17:42:25 172.31.22.76 OPTIONS / - 80 - 221.231.6.195 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 240
+2016-05-27 17:43:17 172.31.22.76 GET /templets/default/style/dedecms.css - 80 - 221.231.6.195 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://52.25.39.214:80 404 0 2 222
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-27 22:09:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-27 22:09:20 172.31.22.76 GET / - 80 - 185.93.185.252 Research+scan,+mail+networkresearch@yandex.ru - 200 0 0 342

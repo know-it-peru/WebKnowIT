@@ -1,0 +1,57 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 02:12:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 02:12:43 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 249
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 03:26:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 03:26:01 172.31.22.76 GET /rom-0 - 80 - 46.101.208.119 - - 404 0 2 977
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 06:39:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 06:39:56 172.31.22.76 GET /w00tw00t.at.blackhats.romanian.anti-sec:) - 80 - 72.55.148.212 ZmEu - 404 0 2 230
+2016-03-14 06:39:56 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 72.55.148.212 ZmEu - 404 0 2 88
+2016-03-14 06:39:56 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 72.55.148.212 ZmEu - 404 0 2 90
+2016-03-14 06:39:56 172.31.22.76 GET /pma/scripts/setup.php - 80 - 72.55.148.212 ZmEu - 404 0 2 90
+2016-03-14 06:39:56 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 72.55.148.212 ZmEu - 404 0 2 88
+2016-03-14 06:39:56 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 72.55.148.212 ZmEu - 404 0 2 89
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 07:32:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 07:32:16 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 241
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 12:35:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 12:35:49 172.31.22.76 HEAD /jenkins/ - 80 - 118.194.226.64 Mozilla/5.0+(compatible;+Konqueror/3.0-rc1;+i686+Linux;+20020906) - 404 0 2 1018
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 13:46:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 13:46:12 172.31.22.76 GET /CFIDE/administrator/ - 80 - 50.63.54.174 - - 404 0 2 416
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 15:20:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 15:20:41 172.31.22.76 HEAD / - 80 - 23.20.60.205 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 206
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 16:00:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 16:00:51 172.31.22.76 GET / - 80 - 66.249.83.145 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 0 0 196
+2016-03-14 16:00:51 172.31.22.76 GET /favicon.ico - 80 - 66.249.83.148 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 0 0 80
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 20:46:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 20:46:09 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 315
+2016-03-14 20:56:02 172.31.22.76 HEAD / - 80 - 54.80.30.202 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 259
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-14 23:33:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-14 23:33:56 172.31.22.76 GET /testproxy.php - 80 - 178.216.200.155 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 221

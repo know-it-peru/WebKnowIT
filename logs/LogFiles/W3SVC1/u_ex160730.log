@@ -1,0 +1,70 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-30 02:01:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-30 02:01:33 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 228
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-30 09:53:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-30 09:53:19 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 66.111.57.50 - - 404 0 2 510
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-30 11:08:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-30 11:08:41 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 246
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-30 11:32:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-30 11:32:24 172.31.22.76 GET /phpadmin/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 202
+2016-07-30 11:32:37 172.31.22.76 GET /php-my-admin/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 153
+2016-07-30 11:32:40 172.31.22.76 GET /websql/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 155
+2016-07-30 11:32:40 172.31.22.76 GET /phpMyAdmin-2/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 153
+2016-07-30 11:32:54 172.31.22.76 GET /cpanelphpmyadmin/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 152
+2016-07-30 11:33:12 172.31.22.76 GET /forum/phpmyadmin/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 154
+2016-07-30 11:33:13 172.31.22.76 GET /php/phpmyadmin/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 152
+2016-07-30 11:33:15 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 155
+2016-07-30 11:33:34 172.31.22.76 GET /phpMyAdmin-2.11.0.0/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 153
+2016-07-30 11:33:34 172.31.22.76 GET /phpMyAdmin-2.11.1-all-languages/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 157
+2016-07-30 11:33:34 172.31.22.76 GET /phpMyAdmin-2.11.1.0/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 152
+2016-07-30 11:33:45 172.31.22.76 GET /phpMyAdmin-2.6.1-pl3/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 156
+2016-07-30 11:33:54 172.31.22.76 GET /phpMyAdmin-2.6.5/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 154
+2016-07-30 11:33:58 172.31.22.76 GET /phpMyAdmin-2.6.9/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 154
+2016-07-30 11:33:59 172.31.22.76 GET /phpMyAdmin-2.7.0-beta1/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 156
+2016-07-30 11:34:03 172.31.22.76 GET /phpMyAdmin-2.7.0-pl2/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 155
+2016-07-30 11:34:05 172.31.22.76 GET /phpMyAdmin-2.7.0-rc1/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 154
+2016-07-30 11:34:05 172.31.22.76 GET /phpMyAdmin-2.7.5/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 158
+2016-07-30 11:34:06 172.31.22.76 GET /phpMyAdmin-2.7.6/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 155
+2016-07-30 11:34:15 172.31.22.76 GET /phpMyAdmin-2.8.2/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 152
+2016-07-30 11:34:15 172.31.22.76 GET /phpMyAdmin-2.8.3/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 152
+2016-07-30 11:34:18 172.31.22.76 GET /phpMyAdmin-2.8.4/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 153
+2016-07-30 11:34:27 172.31.22.76 GET /phpMyAdmin-2.8.8/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 155
+2016-07-30 11:34:30 172.31.22.76 GET /phpMyAdmin-2.9.0-rc1/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 152
+2016-07-30 11:34:30 172.31.22.76 GET /phpMyAdmin-2.9.0.1/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 155
+2016-07-30 11:34:38 172.31.22.76 GET /phpMyAdmin-2.9.1/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 154
+2016-07-30 11:34:39 172.31.22.76 GET /phpMyAdmin-2.9.2/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 156
+2016-07-30 11:34:53 172.31.22.76 GET /phpMyAdmin-3.0.1.0/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 156
+2016-07-30 11:34:56 172.31.22.76 GET /phpMyAdmin-3.1.0.0-english/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 152
+2016-07-30 11:34:56 172.31.22.76 GET /phpMyAdmin-3.1.0.0/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 153
+2016-07-30 11:34:57 172.31.22.76 GET /phpMyAdmin-3.1.1.0-all-languages/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 157
+2016-07-30 11:34:57 172.31.22.76 GET /phpMyAdmin-3.1.2.0-all-languages/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 153
+2016-07-30 11:34:59 172.31.22.76 GET /phpMyAdmin-3.1.2.0-english/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 157
+2016-07-30 11:35:01 172.31.22.76 GET /phpMyAdmin-3.1.2.0/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 152
+2016-07-30 11:35:06 172.31.22.76 GET /phpMyAdmin2/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 153
+2016-07-30 11:35:07 172.31.22.76 GET /phpMyAdmin3/scripts/setup.php - 80 - 93.174.95.36 - - 404 0 2 699
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-30 13:32:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-30 13:32:02 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 226
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-30 17:49:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-30 17:49:27 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 230
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-30 22:00:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-30 22:00:49 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 66.111.57.50 - - 404 0 2 277

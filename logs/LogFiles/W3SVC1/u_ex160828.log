@@ -1,0 +1,52 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 06:15:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 06:15:33 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 534
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 09:07:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 09:07:43 172.31.22.76 GET /robots.txt - 80 - 157.55.39.40 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 115
+2016-08-28 09:07:54 172.31.22.76 GET / - 80 - 157.55.39.40 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 0 0 984
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 10:39:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 10:39:35 172.31.22.76 GET /muieblackcat - 80 - 185.130.6.49 - - 404 0 2 331
+2016-08-28 10:39:35 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 185.130.6.49 - - 404 0 2 205
+2016-08-28 10:39:35 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 185.130.6.49 - - 404 0 2 207
+2016-08-28 10:39:36 172.31.22.76 GET /pma/scripts/setup.php - 80 - 185.130.6.49 - - 404 0 2 204
+2016-08-28 10:39:36 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 185.130.6.49 - - 404 0 2 210
+2016-08-28 10:39:36 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 185.130.6.49 - - 404 0 2 205
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 13:58:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 13:58:51 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 225
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 14:32:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 14:32:08 172.31.22.76 GET /muieblackcat - 80 - 173.208.194.114 - - 404 0 2 175
+2016-08-28 14:32:08 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 173.208.194.114 - - 404 0 2 54
+2016-08-28 14:32:08 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 173.208.194.114 - - 404 0 2 54
+2016-08-28 14:32:08 172.31.22.76 GET /pma/scripts/setup.php - 80 - 173.208.194.114 - - 404 0 2 55
+2016-08-28 14:32:08 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 173.208.194.114 - - 404 0 2 57
+2016-08-28 14:32:08 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 173.208.194.114 - - 404 0 2 57
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 17:03:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 17:03:02 172.31.22.76 GET / - 80 - 66.249.88.61 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 0 0 190
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 18:19:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 18:19:20 172.31.22.76 GET / - 80 - 141.212.122.112 Mozilla/5.0+zgrab/0.x - 200 0 0 185
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 21:10:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 21:10:51 172.31.22.76 GET /user/login - 80 - 104.223.226.162 python-requests/2.7.0+CPython/2.7.8+Windows/2003Server - 404 0 2 365
+2016-08-28 21:13:32 172.31.22.76 GET /user/login - 80 - 104.223.226.162 python-requests/2.7.0+CPython/2.7.8+Windows/2003Server - 404 0 2 56

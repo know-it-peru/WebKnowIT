@@ -1,0 +1,63 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 01:48:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 01:48:13 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 228
+2016-08-26 01:52:14 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 181
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 02:12:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 02:12:22 172.31.22.76 GET / - 80 - 188.166.46.63 Python-urllib/2.7 - 200 0 0 242
+2016-08-26 02:13:02 172.31.22.76 GET / - 80 - 188.166.46.63 Python-urllib/2.7 - 200 0 0 174
+2016-08-26 02:13:12 172.31.22.76 GET /SQLite/SQLiteManager-1.2.4/main.php - 80 - 188.166.46.63 Python-urllib/2.7 - 404 0 2 165
+2016-08-26 02:13:30 172.31.22.76 GET /sqlitemanager/main.php - 80 - 188.166.46.63 Python-urllib/2.7 - 404 0 2 167
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 02:35:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 02:35:06 172.31.22.76 GET /xmlrpc.php - 80 - 89.248.174.4 - - 404 0 2 199
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 02:55:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 02:55:48 172.31.22.76 GET /manager/html - 80 - 219.101.38.13 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 06:10:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 06:10:54 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 609
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 08:45:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 08:45:58 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 191.96.249.42 - - 404 0 2 245
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 11:09:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 11:09:52 172.31.22.76 GET / - 80 - 192.99.204.12 - - 200 0 0 1281
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 13:11:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 13:11:44 172.31.22.76 HEAD /images/ - 80 - 158.130.6.191 Mozilla/5.0+zgrab/0.x - 403 14 0 212
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 18:23:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 18:23:10 172.31.22.76 POST /cgi-bin/php/cgin/php %2D%64+%61%6C%75%6F%6E+%2D%64+%6D%6F%64+%2D%64+%73%75%68%6F%6E%3D%6F%6E+%2D%64+%75%6E%63%74%73%3D%22%22+%2D%64+%64%6E%65+%2D%64+%61%75%74%6F%5F%70%72%%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%74%5F%3D%30+%2D%64+%75%74+%2D%6E 80 - 192.200.215.162 - - 404 0 2 928
+2016-08-26 18:23:10 172.31.22.76 POST /cgi-bin/php5/cgin/php %2D%64+%61%6C%75%6F%6E+%2D%64+%6D%6F%64+%2D%64+%73%75%68%6F%6E%3D%6F%6E+%2D%64+%75%6E%63%74%73%3D%22%22+%2D%64+%64%6E%65+%2D%64+%61%75%74%6F%5F%70%72%%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%74%5F%3D%30+%2D%64+%75%74+%2D%6E 80 - 192.200.215.162 - - 404 0 2 35
+2016-08-26 18:23:10 172.31.22.76 POST /cgi-bin/php-cgi/cgin/php %2D%64+%61%6C%75%6F%6E+%2D%64+%6D%6F%64+%2D%64+%73%75%68%6F%6E%3D%6F%6E+%2D%64+%75%6E%63%74%73%3D%22%22+%2D%64+%64%6E%65+%2D%64+%61%75%74%6F%5F%70%72%%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%74%5F%3D%30+%2D%64+%75%74+%2D%6E 80 - 192.200.215.162 - - 404 0 64 68
+2016-08-26 18:23:10 172.31.22.76 POST /cgi-bin/php.cgi/cgin/php %2D%64+%61%6C%75%6F%6E+%2D%64+%6D%6F%64+%2D%64+%73%75%68%6F%6E%3D%6F%6E+%2D%64+%75%6E%63%74%73%3D%22%22+%2D%64+%64%6E%65+%2D%64+%61%75%74%6F%5F%70%72%%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%74%5F%3D%30+%2D%64+%75%74+%2D%6E 80 - 192.200.215.162 - - 404 0 64 35
+2016-08-26 18:23:10 172.31.22.76 POST /cgi-bin/php4/cgin/php %2D%64+%61%6C%75%6F%6E+%2D%64+%6D%6F%64+%2D%64+%73%75%68%6F%6E%3D%6F%6E+%2D%64+%75%6E%63%74%73%3D%22%22+%2D%64+%64%6E%65+%2D%64+%61%75%74%6F%5F%70%72%%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%74%5F%3D%30+%2D%64+%75%74+%2D%6E 80 - 192.200.215.162 - - 404 0 64 34
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 19:10:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 19:10:38 172.31.22.76 GET / - 80 - 66.249.88.61 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 0 0 193
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-26 20:13:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-26 20:13:07 172.31.22.76 GET / - 80 - 185.93.185.10 Scanbot - 200 0 0 338

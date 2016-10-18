@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-05 01:03:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-05 01:03:16 172.31.22.76 GET / - 80 - 213.128.81.66 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 200 0 0 1264
+2016-07-05 01:12:51 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 183
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-05 05:28:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-05 05:28:14 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 377
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-05 15:38:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-05 15:38:36 172.31.22.76 GET / - 80 - 173.252.90.100 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 304 0 0 897
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-05 19:50:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-05 19:50:42 172.31.22.76 GET / - 80 - 23.110.52.178 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.11;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 0 0 158

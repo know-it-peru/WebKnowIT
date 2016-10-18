@@ -1,0 +1,92 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 01:00:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 01:00:20 172.31.22.76 GET /nagiosxi/login.php redirect=/nagiosxi/index.php0.000000&noauth=1 80 - 191.96.249.42 - - 404 0 2 196
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 01:37:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 01:37:03 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 224
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 02:56:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 02:56:40 172.31.22.76 GET /robots.txt - 80 - 66.249.65.15 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 103
+2016-07-15 02:56:40 172.31.22.76 GET / - 80 - 66.249.65.13 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 137
+2016-07-15 02:56:53 172.31.22.76 GET /tools/960.css - 80 - 66.249.65.11 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 62
+2016-07-15 02:56:53 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.65.11 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 60
+2016-07-15 02:56:53 172.31.22.76 GET /tools/style.css - 80 - 66.249.65.11 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 58
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 03:15:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 03:15:01 172.31.22.76 GET /robots.txt - 80 - 66.249.65.32 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 84
+2016-07-15 03:15:01 172.31.22.76 GET / - 80 - 66.249.65.32 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 168
+2016-07-15 03:15:10 172.31.22.76 GET /tools/960.css - 80 - 66.249.65.30 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 61
+2016-07-15 03:15:10 172.31.22.76 GET /tools/style.css - 80 - 66.249.65.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 59
+2016-07-15 03:15:10 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.65.30 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 61
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 04:28:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 04:28:38 172.31.22.76 GET / - 80 - 208.100.26.231 - - 200 0 0 819
+2016-07-15 04:30:20 172.31.22.76 HEAD / - 80 - 208.100.26.231 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+http://nmap.org/book/nse.html) - 200 0 0 103
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 05:15:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 05:15:31 172.31.22.76 GET / - 80 - 66.249.65.13 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 180
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 07:33:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 07:33:22 172.31.22.76 GET / - 80 - 66.249.65.11 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 184
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 11:28:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 11:28:16 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 227
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 13:48:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 13:48:45 172.31.22.76 GET /myiphd.php rnd=320c39084a61ab518d773518747bdf5e&rn=146859060238206 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 328
+2016-07-15 13:48:47 172.31.22.76 GET /myipha.php rnd=320c39084a61ab518d773518747bdf5e&rn=146859060291533 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 204
+2016-07-15 13:48:47 172.31.22.76 GET /myiphb.php rnd=320c39084a61ab518d773518747bdf5e&rn=146859060332538 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 208
+2016-07-15 13:48:47 172.31.22.76 GET /myiphc.php rnd=320c39084a61ab518d773518747bdf5e&rn=146859060374147 80 - 37.26.128.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 202
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 14:07:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 14:07:31 172.31.22.76 GET /hndUnblock.cgi - 80 - 187.185.197.131 Wget(linux) - 404 0 2 132
+2016-07-15 14:07:31 172.31.22.76 GET /tmUnblock.cgi - 80 - 187.185.197.131 Wget(linux) - 404 0 2 126
+2016-07-15 14:07:31 172.31.22.76 GET /cgi/common.cgi - 80 - 187.185.197.131 Wget(linux) - 404 0 2 128
+2016-07-15 14:07:31 172.31.22.76 GET /stssys.htm - 80 - 187.185.197.131 Wget(linux) - 404 0 2 141
+2016-07-15 14:07:33 172.31.22.76 GET / - 80 - 187.185.197.131 Wget(linux) - 200 0 0 925
+2016-07-15 14:07:33 172.31.22.76 POST /command.php - 80 - 187.185.197.131 Wget(linux) - 404 0 2 128
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 17:05:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 17:05:08 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 226
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 18:03:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 18:03:16 172.31.22.76 GET /manager/html - 80 - 222.73.85.196 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 1187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 18:34:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 18:34:32 172.31.22.76 GET / - 80 - 185.137.219.199 Scanbot - 200 0 0 341
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 19:26:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 19:26:43 172.31.22.76 HEAD / - 80 - 154.74.130.69 - - 200 0 0 403
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-15 21:47:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-15 21:47:53 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 223

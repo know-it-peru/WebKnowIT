@@ -1,0 +1,39 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-28 09:19:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-28 09:19:37 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 431
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-28 17:22:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-28 17:22:55 172.31.22.76 GET / - 80 - 63.141.251.130 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 910
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-28 18:08:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-28 18:08:30 172.31.22.76 GET /check_proxy - 80 - 180.97.106.161 - - 404 0 2 319
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-28 19:34:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-28 19:34:08 172.31.22.76 GET /vendor_extra/elfinder/elfinder.html - 80 - 50.28.98.173 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98) - 404 0 2 86
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-28 20:23:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-28 20:23:35 172.31.22.76 POST /404 - 80 - 61.216.2.13 apache - 404 0 2 713
+2016-07-28 20:32:47 172.31.22.76 GET /tiki/vendor_extra/elfinder/elfinder.html - 80 - 50.28.98.173 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98) - 404 0 2 40
+2016-07-28 20:42:28 172.31.22.76 GET /robots.txt - 80 - 66.249.65.187 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 58
+2016-07-28 20:42:28 172.31.22.76 GET / - 80 - 66.249.65.190 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 60
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-28 21:21:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-28 21:21:08 172.31.22.76 GET / - 80 - 69.30.196.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 177
+2016-07-28 21:35:38 172.31.22.76 GET /twiki/vendor_extra/elfinder/elfinder.html - 80 - 50.28.98.173 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98) - 404 0 2 41
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-28 22:55:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-28 22:55:15 172.31.22.76 GET /tikiwiki/vendor_extra/elfinder/elfinder.html - 80 - 50.28.98.173 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98) - 404 0 2 84

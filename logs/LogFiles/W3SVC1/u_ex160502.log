@@ -1,0 +1,50 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 01:16:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 01:16:16 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 306
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 03:57:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 03:57:54 172.31.22.76 GET / - 80 - 213.128.81.66 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 200 0 0 2290
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 06:28:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 06:28:53 172.31.22.76 GET /xmlrpc.php - 80 - 92.222.246.137 - - 404 0 2 511
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 07:06:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 07:06:01 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 246
+2016-05-02 07:08:21 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 190
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 15:04:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 15:04:37 172.31.22.76 POST /index.action - 80 - 222.186.34.85 Mozilla/5.0 - 404 0 2 424
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 18:32:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 18:32:12 172.31.22.76 GET / - 80 - 185.93.185.252 Research+scan,+mail+networkresearch@yandex.ru - 200 0 0 1048
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 20:17:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 20:17:53 172.31.22.76 GET /cache/global/img/gs.gif - 80 - 80.82.78.38 Mozilla - 404 0 2 195
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 20:48:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 20:48:43 172.31.22.76 GET / - 80 - 107.150.32.60 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 175
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-02 21:39:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-02 21:39:00 172.31.22.76 GET /robots.txt - 80 - 66.249.66.122 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 123
+2016-05-02 21:39:00 172.31.22.76 GET / - 80 - 66.249.66.124 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 155
+2016-05-02 21:48:39 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.66.126 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 79
+2016-05-02 21:48:40 172.31.22.76 GET /tools/style.css - 80 - 66.249.66.124 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 79
+2016-05-02 21:48:40 172.31.22.76 GET /tools/960.css - 80 - 66.249.66.126 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 79

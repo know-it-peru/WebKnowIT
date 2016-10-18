@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-24 04:05:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-24 04:05:18 172.31.22.76 GET / - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 - 304 0 0 515
+2015-10-24 04:05:18 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 203
+2015-10-24 04:05:18 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 203
+2015-10-24 04:05:18 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 218
+2015-10-24 04:05:18 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 187
+2015-10-24 04:05:18 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 203
+2015-10-24 04:05:18 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 203
+2015-10-24 04:05:18 172.31.22.76 GET /images/social.png - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 156
+2015-10-24 04:05:42 172.31.22.76 GET / - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 - 200 0 0 249
+2015-10-24 04:05:42 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 265
+2015-10-24 04:05:42 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 265
+2015-10-24 04:05:42 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 281
+2015-10-24 04:05:42 172.31.22.76 GET /images/social.png - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 171
+2015-10-24 04:05:42 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 296
+2015-10-24 04:05:42 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 296
+2015-10-24 04:05:42 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.253 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 http://www.know-it.pe/ 304 0 0 312
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-24 04:21:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-24 04:21:59 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-24 06:40:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-24 06:40:44 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-24 11:27:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-24 11:27:02 172.31.22.76 GET / - 80 - 169.54.233.121 Mozilla/5.0+(Windows+NT+6.1;+rv:31.0)+Gecko/20100101+Firefox/31.0 - 200 0 0 328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-24 19:06:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-24 19:06:35 172.31.22.76 GET /manager/html - 80 - 61.160.247.231 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) - 404 0 64 1312

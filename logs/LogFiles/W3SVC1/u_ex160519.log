@@ -1,0 +1,36 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-19 00:26:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-19 00:26:35 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 224
+2016-05-19 00:26:40 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 179
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-19 03:10:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-19 03:10:52 172.31.22.76 GET /robots.txt - 80 - 66.249.75.43 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 93
+2016-05-19 03:10:52 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.75.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 53
+2016-05-19 03:10:53 172.31.22.76 GET /tools/style.css - 80 - 66.249.75.43 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 52
+2016-05-19 03:10:53 172.31.22.76 GET /tools/960.css - 80 - 66.249.75.35 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 52
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-19 03:42:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-19 03:42:47 172.31.22.76 GET /manager/html - 80 - 58.221.42.45 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 316
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-19 17:52:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-19 17:52:47 172.31.22.76 GET /robots.txt - 80 - 180.97.106.162 - - 404 0 2 466
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-19 19:20:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-19 19:20:55 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 227
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-19 21:06:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-19 21:06:34 172.31.22.76 GET / - 80 - 185.93.185.252 Research+scan,+mail+networkresearch@yandex.ru - 200 0 0 1033
+2016-05-19 21:15:49 172.31.22.76 GET /robots.txt - 80 - 66.249.66.49 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 72
+2016-05-19 21:15:49 172.31.22.76 GET /tools/960.css - 80 - 66.249.66.46 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://52.25.39.214/ 200 0 0 75

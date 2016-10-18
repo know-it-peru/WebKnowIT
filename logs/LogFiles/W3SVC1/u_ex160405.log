@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-05 00:11:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-05 00:11:39 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 228
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-05 00:49:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-05 00:49:04 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 226
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-05 04:10:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-05 04:10:33 172.31.22.76 GET /xmlrpc.php - 80 - 89.33.16.243 - - 404 0 2 483
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-05 05:35:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-05 05:35:07 172.31.22.76 GET /rom-0 - 80 - 5.39.222.159 Mozilla/5.0+zgrab/0.x - 404 0 2 866
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-05 06:48:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-05 06:48:39 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 64.16.209.152 - - 404 0 2 602
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-05 14:33:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-05 14:33:33 172.31.22.76 GET /CFIDE/administrator/ - 80 - 45.32.233.100 - - 404 0 2 1145
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-05 16:37:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-05 16:37:48 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 238

@@ -1,0 +1,30 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-06 01:07:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-06 01:07:49 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 239
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-06 07:15:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-06 07:15:10 172.31.22.76 GET /cache/global/img/gs.gif - 80 - 80.82.78.38 Mozilla - 404 0 2 205
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-06 10:35:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-06 10:35:26 172.31.22.76 HEAD / - 80 - 222.85.138.75 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.86+Safari/537.36 - 200 0 0 1113
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-06 12:29:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-06 12:29:22 172.31.22.76 GET /robots.txt - 80 - 94.102.48.195 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 404 0 2 527
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-06 18:16:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-06 18:16:08 172.31.22.76 GET / - 80 - 141.212.122.193 Go+http+package - 200 0 0 180
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-06 23:36:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-06 23:36:20 172.31.22.76 GET /manager/html - 80 - 101.251.229.133 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 487

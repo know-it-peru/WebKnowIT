@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-19 00:34:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-19 00:34:05 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://www.know-it.pe/ 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-19 01:23:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-19 01:23:39 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.234.105.194 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://www.know-it.pe/ 404 0 2 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-19 03:51:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-19 03:51:30 172.31.22.76 GET / - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 - 304 0 0 250
+2015-10-19 03:51:30 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://know-it.pe/ 404 0 2 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-19 05:23:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-19 05:23:51 172.31.22.76 GET /manager/html - 80 - 202.109.143.18 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 421
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-19 08:42:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-19 08:42:28 172.31.22.76 GET / - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 - 304 0 0 249
+2015-10-19 08:42:28 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 190.43.6.139 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.71+Safari/537.36 http://know-it.pe/ 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-19 13:45:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-19 13:45:03 172.31.22.76 GET /wp-login.php - 80 - 77.236.97.247 Mozilla/5.0+(X11;+U;+Linux+i686;+pt-BR;+rv:1.9.0.15)+Gecko/2009102815+Ubuntu/9.04+(jaunty)+Firefox/3.0.15 - 404 0 2 234
+2015-10-19 13:45:03 172.31.22.76 GET /blog/wp-login.php - 80 - 77.236.97.247 Mozilla/5.0+(X11;+U;+Linux+i686;+pt-BR;+rv:1.9.0.15)+Gecko/2009102815+Ubuntu/9.04+(jaunty)+Firefox/3.0.15 - 404 0 2 187
+2015-10-19 13:45:03 172.31.22.76 GET /wordpress/wp-login.php - 80 - 77.236.97.247 Mozilla/5.0+(X11;+U;+Linux+i686;+pt-BR;+rv:1.9.0.15)+Gecko/2009102815+Ubuntu/9.04+(jaunty)+Firefox/3.0.15 - 404 0 2 187
+2015-10-19 13:45:05 172.31.22.76 GET /wp/wp-login.php - 80 - 77.236.97.247 Mozilla/5.0+(X11;+U;+Linux+i686;+pt-BR;+rv:1.9.0.15)+Gecko/2009102815+Ubuntu/9.04+(jaunty)+Firefox/3.0.15 - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2015-10-19 15:02:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-19 15:02:21 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234

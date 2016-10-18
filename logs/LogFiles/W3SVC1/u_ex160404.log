@@ -1,0 +1,61 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 00:58:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 00:58:13 172.31.22.76 HEAD / - 80 - 54.146.35.213 Cloud+mapping+experiment.+Contact+research@pdrlabs.net - 200 0 0 858
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 06:50:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 06:50:30 172.31.22.76 GET /robots.txt - 80 - 66.249.65.23 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 187
+2016-04-04 06:50:30 172.31.22.76 GET /tools/style.css - 80 - 66.249.65.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 62
+2016-04-04 06:50:31 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.65.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 61
+2016-04-04 06:50:31 172.31.22.76 GET /tools/960.css - 80 - 66.249.65.23 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 60
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 07:11:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 07:11:18 172.31.22.76 GET / - 80 - 66.146.53.121 - - 200 0 64 786
+2016-04-04 07:11:22 172.31.22.76 GET / - 80 - 66.146.53.121 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 39
+2016-04-04 07:11:26 172.31.22.76 GET /CHANGELOG.txt - 80 - 66.146.53.121 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 2 36
+2016-04-04 07:11:30 172.31.22.76 GET /joomla.xml - 80 - 66.146.53.121 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:43.0)+Gecko/20100101+Firefox/43.0 - 404 0 2 40
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 08:30:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 08:30:15 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 219
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 10:10:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 10:10:46 172.31.22.76 GET / - 80 - 107.150.3.60 - - 200 0 64 201
+2016-04-04 10:11:13 172.31.22.76 GET / - 80 - 107.150.3.60 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 200 0 0 85
+2016-04-04 10:11:38 172.31.22.76 GET /CHANGELOG.txt - 80 - 107.150.3.60 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 404 0 2 99
+2016-04-04 10:12:01 172.31.22.76 GET /joomla.xml - 80 - 107.150.3.60 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2486.0+Safari/537.36+Edge/13.10586 - 404 0 2 100
+2016-04-04 10:12:25 172.31.22.76 GET /administrator/manifests/libraries/joomla.xml - 80 - 107.150.3.60 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2486.0+Safari/537.36+Edge/13.10586 - 404 0 2 82
+2016-04-04 10:12:47 172.31.22.76 GET / - 80 - 107.150.3.60 Mozilla/5.0+(Windows+NT+6.1;+rv:43.0)+Gecko/20100101+Firefox/43.0 - 200 0 0 139
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 10:36:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 10:36:12 172.31.22.76 GET / - 80 - 107.150.32.59 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 178
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 13:23:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 13:23:34 172.31.22.76 GET /rom-0 - 80 - 5.39.222.159 Mozilla/5.0+zgrab/0.x - 404 0 2 258
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 14:34:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 14:34:38 172.31.22.76 GET / - 80 - 74.91.18.42 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 175
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-04 16:23:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-04 16:23:25 172.31.22.76 GET / - 80 - 204.191.218.17 - - 200 0 0 144
+2016-04-04 16:23:40 172.31.22.76 GET / - 80 - 204.191.218.17 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 200 0 0 29
+2016-04-04 16:23:54 172.31.22.76 GET /CHANGELOG.txt - 80 - 204.191.218.17 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 404 0 2 29
+2016-04-04 16:24:09 172.31.22.76 GET /joomla.xml - 80 - 204.191.218.17 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/601.4.4+(KHTML,+like+Gecko)+Version/9.0.3+Safari/601.4.4 - 404 0 2 28
+2016-04-04 16:24:23 172.31.22.76 GET /administrator/manifests/libraries/joomla.xml - 80 - 204.191.218.17 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/601.4.4+(KHTML,+like+Gecko)+Version/9.0.3+Safari/601.4.4 - 404 0 2 28
+2016-04-04 16:24:38 172.31.22.76 GET / - 80 - 204.191.218.17 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 200 0 0 27

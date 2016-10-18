@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-28 05:05:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-28 05:05:03 172.31.22.76 GET / - 80 - 222.186.34.155 HttpClient - 200 0 0 1020
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-28 05:26:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-28 05:26:37 172.31.22.76 GET /images/G/01/x-locale/common/transparent-pixel._CB386942464_.gif - 80 - 42.159.144.101 - - 404 0 2 393
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-28 18:37:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-28 18:37:17 172.31.22.76 GET /robots.txt - 80 - 180.97.106.161 - - 404 0 2 554
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-28 21:20:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-28 21:20:15 172.31.22.76 GET / - 80 - 123.59.59.52 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:29.0)+Gecko/20100101+Firefox/29.0 - 200 0 0 1048

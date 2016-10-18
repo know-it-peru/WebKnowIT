@@ -1,0 +1,75 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 04:20:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 04:20:38 172.31.22.76 GET /muieblackcat - 80 - 200.98.117.247 - - 404 0 2 1665
+2016-05-16 04:20:38 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 200.98.117.247 - - 404 0 2 275
+2016-05-16 04:20:39 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 200.98.117.247 - - 404 0 2 236
+2016-05-16 04:20:39 172.31.22.76 GET /pma/scripts/setup.php - 80 - 200.98.117.247 - - 404 0 2 188
+2016-05-16 04:20:43 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 200.98.117.247 - - 404 0 2 297
+2016-05-16 04:23:19 172.31.22.76 GET / - 80 - 69.30.202.228 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 60
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 05:58:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 05:58:32 172.31.22.76 GET / - 80 - 207.46.13.108 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 0 0 134
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 06:24:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 06:24:16 172.31.22.76 OPTIONS / - 80 - 221.231.6.195 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 368
+2016-05-16 06:24:43 172.31.22.76 GET /templets/default/style/dedecms.css - 80 - 221.231.6.195 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://52.25.39.214:80 404 0 2 289
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 08:07:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 08:07:56 172.31.22.76 GET / - 80 - 74.91.17.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 09:51:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 09:51:44 172.31.22.76 GET / - 80 - 198.20.87.98 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2228.0+Safari/537.36 - 200 0 0 174
+2016-05-16 09:51:44 172.31.22.76 GET /robots.txt - 80 - 198.20.87.98 - - 404 0 2 56
+2016-05-16 09:51:44 172.31.22.76 GET /sitemap.xml - 80 - 198.20.87.98 - - 404 0 2 57
+2016-05-16 10:03:54 172.31.22.76 GET /muieblackcat - 80 - 94.156.128.182 - - 404 0 2 197
+2016-05-16 10:03:54 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 94.156.128.182 - - 404 0 2 194
+2016-05-16 10:03:54 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 94.156.128.182 - - 404 0 2 196
+2016-05-16 10:03:55 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 94.156.128.182 - - 404 0 2 198
+2016-05-16 10:03:55 172.31.22.76 GET /pma/scripts/setup.php - 80 - 94.156.128.182 - - 404 0 2 194
+2016-05-16 10:03:55 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 94.156.128.182 - - 404 0 2 194
+2016-05-16 10:03:57 172.31.22.76 GET /php/phpmyadmin/scripts/setup.php - 80 - 94.156.128.182 - - 404 0 2 192
+2016-05-16 10:03:57 172.31.22.76 GET / - 80 - 94.156.128.182 - - 200 0 0 199
+2016-05-16 10:18:20 172.31.22.76 GET /phpMyAdmin - 80 - 211.140.169.244 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) http://52.25.39.214/phpMyAdmin 404 0 2 5110
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 11:43:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 11:43:00 172.31.22.76 GET /robots.txt - 80 - 207.46.13.141 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 0 2 57
+2016-05-16 11:43:00 172.31.22.76 GET /tools/style.css - 80 - 207.46.13.141 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 0 0 14
+2016-05-16 11:43:04 172.31.22.76 GET /tools/960.css - 80 - 207.46.13.85 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 0 0 13
+2016-05-16 11:43:10 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 207.46.13.67 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 0 0 12
+2016-05-16 11:54:05 172.31.22.76 GET /manager/html - 80 - 222.186.21.61 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) - 404 0 64 316
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 14:16:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 14:16:36 172.31.22.76 GET /manager/html - 80 - 202.109.143.18 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 1236 11087
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 17:39:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 17:39:20 172.31.22.76 GET /robots.txt - 80 - 66.249.65.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 102
+2016-05-16 17:39:20 172.31.22.76 GET / - 80 - 66.249.65.23 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 138
+2016-05-16 17:48:59 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.65.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 60
+2016-05-16 17:48:59 172.31.22.76 GET /tools/style.css - 80 - 66.249.65.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 60
+2016-05-16 17:49:01 172.31.22.76 GET /tools/960.css - 80 - 66.249.65.23 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 60
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 20:14:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 20:14:35 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 227
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-05-16 21:26:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-05-16 21:26:29 172.31.22.76 HEAD / - 80 - 54.77.74.246 - - 200 0 64 336

@@ -1,0 +1,225 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 00:38:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 00:38:05 172.31.22.76 GET /favicon.ico - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 170
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 02:21:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 02:21:51 172.31.22.76 GET /images/bg.png - 80 - 200.48.158.133 Mozilla/4.0+(compatible;) - 304 0 0 207
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 03:24:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 03:24:11 172.31.22.76 GET / - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 342
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 04:43:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 04:43:53 172.31.22.76 GET /muieblackcat - 80 - 185.130.5.235 - - 404 0 2 264
+2016-01-17 04:43:53 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 185.130.5.235 - - 404 0 2 141
+2016-01-17 04:43:53 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 185.130.5.235 - - 404 0 2 141
+2016-01-17 04:43:53 172.31.22.76 GET /pma/scripts/setup.php - 80 - 185.130.5.235 - - 404 0 2 140
+2016-01-17 04:43:54 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 185.130.5.235 - - 404 0 2 139
+2016-01-17 04:43:54 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 185.130.5.235 - - 404 0 2 141
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 05:49:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 05:49:27 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 231
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 06:20:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 06:20:32 172.31.22.76 GET /tools/960.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 240
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 09:59:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 09:59:31 172.31.22.76 GET / - 80 - 202.112.51.96 - - 200 0 0 317
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 11:06:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 11:06:19 172.31.22.76 GET /images/logo.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 172
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 11:47:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 11:47:18 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 200 0 0 1744
+2016-01-17 11:47:18 ::1 GET /tools/960.css - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/ 200 0 0 14
+2016-01-17 11:47:18 ::1 GET /assets/css/mainStylesheet.css - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/ 200 0 0 14
+2016-01-17 11:47:18 ::1 GET /tools/style.css - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/ 200 0 0 18
+2016-01-17 11:47:18 ::1 GET /images/bg.png - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/tools/style.css 200 0 0 32
+2016-01-17 11:47:18 ::1 GET /images/logo.png - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/tools/style.css 200 0 0 32
+2016-01-17 11:47:18 ::1 GET /images/social.png - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/tools/style.css 200 0 0 21
+2016-01-17 11:47:18 ::1 GET /images/watch.png - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/tools/style.css 200 0 0 41
+2016-01-17 11:47:18 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/ 200 0 0 5
+2016-01-17 11:51:35 ::1 GET /idx1.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 200 0 0 103
+2016-01-17 11:51:49 ::1 GET /idx3.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://localhost/idx1.html 200 0 0 353
+2016-01-17 11:51:58 ::1 GET /idx2.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 200 0 0 63
+2016-01-17 11:54:14 172.31.22.76 GET / - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 - 200 0 0 260
+2016-01-17 11:54:19 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 200 0 0 175
+2016-01-17 11:54:19 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 200 0 0 172
+2016-01-17 11:54:19 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 200 0 0 172
+2016-01-17 11:54:19 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 200 0 0 181
+2016-01-17 11:54:19 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 200 0 0 181
+2016-01-17 11:54:19 172.31.22.76 GET /images/social.png - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 200 0 0 339
+2016-01-17 11:54:19 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 200 0 0 631
+2016-01-17 11:54:28 172.31.22.76 GET /idx3.html - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 - 200 0 0 174
+2016-01-17 11:54:31 172.31.22.76 GET /idx1.html - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 - 200 0 0 238
+2016-01-17 11:55:09 172.31.22.76 GET /idx2.html - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 - 200 0 0 301
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 12:25:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 12:25:12 172.31.22.76 GET /images/watch.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 336
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 13:39:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 13:39:45 172.31.22.76 GET / - 80 - 5.39.216.131 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.10;+rv:39.0)+Gecko/20100101+Firefox/39.0 - 200 0 64 1131
+2016-01-17 13:40:21 172.31.22.76 GET /tools/style.css - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 128
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 15:47:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 15:47:47 172.31.22.76 GET / - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 304 0 0 1140
+2016-01-17 15:47:47 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 265
+2016-01-17 15:47:47 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 265
+2016-01-17 15:47:47 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 265
+2016-01-17 15:47:47 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 218
+2016-01-17 15:47:47 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 218
+2016-01-17 15:47:47 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 218
+2016-01-17 15:47:47 172.31.22.76 GET /images/social.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 234
+2016-01-17 15:47:48 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 234
+2016-01-17 15:48:10 172.31.22.76 GET / - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 304 0 0 609
+2016-01-17 15:48:12 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 187
+2016-01-17 15:48:12 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 187
+2016-01-17 15:48:12 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 187
+2016-01-17 15:48:12 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 218
+2016-01-17 15:48:12 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 234
+2016-01-17 15:48:12 172.31.22.76 GET /images/social.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 218
+2016-01-17 15:48:12 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 421
+2016-01-17 15:48:14 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 249
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 16:06:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 16:06:45 172.31.22.76 GET / - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 200 0 0 1578
+2016-01-17 16:06:45 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 187
+2016-01-17 16:06:45 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 171
+2016-01-17 16:06:45 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 171
+2016-01-17 16:06:45 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 234
+2016-01-17 16:06:45 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 250
+2016-01-17 16:06:46 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 671
+2016-01-17 16:06:46 172.31.22.76 GET /images/social.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/tools/style.css 200 0 0 484
+2016-01-17 16:16:07 172.31.22.76 GET / - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 304 0 0 562
+2016-01-17 16:16:07 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 187
+2016-01-17 16:16:07 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 187
+2016-01-17 16:16:07 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 187
+2016-01-17 16:16:07 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 218
+2016-01-17 16:16:07 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 234
+2016-01-17 16:16:07 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 234
+2016-01-17 16:16:07 172.31.22.76 GET /images/social.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 304 0 0 234
+2016-01-17 16:16:08 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/ 200 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 16:34:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 16:34:02 172.31.22.76 GET / - 80 - 66.249.88.11 Mozilla/5.0+(Windows+NT+6.1;+rv:6.0)+Gecko/20110814+Firefox/6.0+Google+Favicon - 200 0 0 265
+2016-01-17 16:34:02 172.31.22.76 GET /favicon.ico - 80 - 66.249.88.11 Mozilla/5.0+(Windows+NT+6.1;+rv:6.0)+Gecko/20110814+Firefox/6.0+Google+Favicon - 200 0 0 124
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 17:33:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 17:33:37 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 499
+2016-01-17 17:35:08 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 218
+2016-01-17 17:35:08 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:36:31 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 218
+2016-01-17 17:36:31 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:36:31 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 390
+2016-01-17 17:36:32 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:38:20 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 234
+2016-01-17 17:38:20 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:38:22 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 203
+2016-01-17 17:38:22 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 234
+2016-01-17 17:38:23 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 296
+2016-01-17 17:38:23 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:39:30 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 218
+2016-01-17 17:39:30 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 203
+2016-01-17 17:39:35 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 390
+2016-01-17 17:39:35 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:39:36 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 359
+2016-01-17 17:39:36 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 203
+2016-01-17 17:39:36 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 249
+2016-01-17 17:39:36 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 328
+2016-01-17 17:39:37 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 249
+2016-01-17 17:39:37 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:40:01 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 404 0 2 187
+2016-01-17 17:40:01 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 343
+2016-01-17 17:40:12 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 200 0 0 187
+2016-01-17 17:40:12 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 499
+2016-01-17 17:40:12 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 499
+2016-01-17 17:40:12 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 531
+2016-01-17 17:40:12 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/tools/style.css 304 0 0 218
+2016-01-17 17:40:12 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/tools/style.css 304 0 0 218
+2016-01-17 17:40:13 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 234
+2016-01-17 17:40:17 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 304 0 0 187
+2016-01-17 17:40:17 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 203
+2016-01-17 17:40:17 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:40:17 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 218
+2016-01-17 17:40:17 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 218
+2016-01-17 17:40:17 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 249
+2016-01-17 17:40:17 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:40:27 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 304 0 0 343
+2016-01-17 17:40:27 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 171
+2016-01-17 17:40:27 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 187
+2016-01-17 17:40:27 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 218
+2016-01-17 17:40:27 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 171
+2016-01-17 17:40:27 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 234
+2016-01-17 17:40:27 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:40:44 172.31.22.76 GET /idx7.html - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - 304 0 0 328
+2016-01-17 17:40:44 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 171
+2016-01-17 17:40:44 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 171
+2016-01-17 17:40:44 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 218
+2016-01-17 17:40:44 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 171
+2016-01-17 17:40:44 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 304 0 0 218
+2016-01-17 17:40:44 172.31.22.76 GET /favicon.ico - 80 - 181.64.192.245 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 http://know-it.pe/idx7.html 200 0 0 218
+2016-01-17 17:41:59 172.31.22.76 GET / - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 - 200 0 0 718
+2016-01-17 17:41:59 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 304 0 0 265
+2016-01-17 17:41:59 172.31.22.76 GET /tools/style.css - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 304 0 0 187
+2016-01-17 17:41:59 172.31.22.76 GET /tools/960.css - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 304 0 0 203
+2016-01-17 17:41:59 172.31.22.76 GET /images/bg.png - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 304 0 0 171
+2016-01-17 17:41:59 172.31.22.76 GET /images/logo.png - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 304 0 0 187
+2016-01-17 17:41:59 172.31.22.76 GET /images/watch.png - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 304 0 0 187
+2016-01-17 17:41:59 172.31.22.76 GET /images/social.png - 80 - 181.64.192.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13C75+Safari/601.1 http://www.know-it.pe/ 304 0 0 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 19:26:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 19:26:54 172.31.22.76 GET / - 80 - 66.249.88.206 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 - 200 0 0 203
+2016-01-17 19:26:54 172.31.22.76 GET /tools/style.css - 80 - 66.249.88.211 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 http://www.know-it.pe/ 200 0 0 78
+2016-01-17 19:26:54 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.88.206 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 http://www.know-it.pe/ 200 0 0 78
+2016-01-17 19:26:55 172.31.22.76 GET /tools/960.css - 80 - 66.249.88.206 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 http://www.know-it.pe/ 200 0 0 78
+2016-01-17 19:26:55 172.31.22.76 GET /images/bg.png - 80 - 66.249.88.211 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 http://www.know-it.pe/tools/style.css 200 0 0 78
+2016-01-17 19:26:55 172.31.22.76 GET /images/logo.png - 80 - 66.249.88.206 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 http://www.know-it.pe/tools/style.css 200 0 0 78
+2016-01-17 19:26:56 172.31.22.76 GET /images/watch.png - 80 - 66.249.88.211 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 http://www.know-it.pe/tools/style.css 200 0 0 296
+2016-01-17 19:26:56 172.31.22.76 GET /images/social.png - 80 - 66.249.88.211 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 http://www.know-it.pe/tools/style.css 200 0 0 140
+2016-01-17 19:26:56 172.31.22.76 GET /favicon.ico - 80 - 66.249.88.206 Mozilla/5.0+(Linux;+Android+4.1.2;+LG-P768+Build/JZO54K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.76+Mobile+Safari/537.36 http://www.know-it.pe/ 200 0 0 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 21:30:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 21:30:17 172.31.22.76 GET /images/social.png - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 23:18:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 23:18:30 172.31.22.76 GET /files/martyrs/37EE9280DA.jpg - 80 - 80.82.64.68 - - 404 0 2 578
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-01-17 23:57:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-01-17 23:57:24 172.31.22.76 GET /favicon.ico - 80 - 200.41.111.69 Mozilla/4.0+(compatible;) - 304 0 0 187

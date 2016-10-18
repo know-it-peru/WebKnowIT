@@ -1,0 +1,26 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-14 02:03:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-14 02:03:08 172.31.22.76 GET /phpMyAdmin - 80 - 111.198.140.98 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) http://52.25.39.214/phpMyAdmin 404 0 2 1298
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-14 03:55:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-14 03:55:13 172.31.22.76 GET /phpMyAdmin - 80 - 218.4.73.62 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) http://52.25.39.214/phpMyAdmin 404 0 2 526
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-14 09:13:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-14 09:13:07 172.31.22.76 POST /azenv.php auth=146589565325&a=PSCMN&i=874063830&p=80 80 - 95.213.177.126 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0) https://proxyradar.com/ 404 0 2 412
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-14 10:52:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-14 10:52:13 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 231
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-14 21:02:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-14 21:02:19 172.31.22.76 GET /robots.txt - 80 - 66.249.66.190 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 118
+2016-06-14 21:02:19 172.31.22.76 GET / - 80 - 66.249.66.190 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 818

@@ -1,0 +1,59 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 01:02:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 01:02:23 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 225
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 05:56:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 05:56:20 172.31.22.76 GET /manager/html - 80 - 192.200.220.58 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) - 404 0 64 1297
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 06:15:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 06:15:38 172.31.22.76 GET / - 80 - 66.249.64.253 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 78
+2016-06-25 06:15:39 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.64.248 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 76
+2016-06-25 06:15:39 172.31.22.76 GET /tools/960.css - 80 - 66.249.64.248 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 77
+2016-06-25 06:15:39 172.31.22.76 GET /tools/style.css - 80 - 66.249.64.243 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 74
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 10:06:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 10:06:29 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 225
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 11:29:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 11:29:09 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 226
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 16:06:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 16:06:11 172.31.22.76 GET /muieblackcat - 80 - 104.47.152.29 - - 404 0 2 296
+2016-06-25 16:06:11 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 163
+2016-06-25 16:06:11 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 162
+2016-06-25 16:06:12 172.31.22.76 GET /pma/scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 180
+2016-06-25 16:06:12 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 199
+2016-06-25 16:06:12 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 195
+2016-06-25 16:06:13 172.31.22.76 GET /scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 181
+2016-06-25 16:06:13 172.31.22.76 GET /admin/scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 179
+2016-06-25 16:06:13 172.31.22.76 GET /php/phpmyadmin/scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 162
+2016-06-25 16:06:14 172.31.22.76 GET /PhpMyAdmin/scripts/setup.php - 80 - 104.47.152.29 - - 404 0 2 162
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 17:00:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 17:00:42 172.31.22.76 GET / - 80 - 141.212.122.145 Go+http+package - 200 0 0 862
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 18:10:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 18:10:26 172.31.22.76 GET /robots.txt - 80 - 66.249.66.190 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 116
+2016-06-25 18:10:26 172.31.22.76 GET /tools/style.css - 80 - 66.249.66.190 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 71
+2016-06-25 18:10:28 172.31.22.76 GET /assets/css/mainStylesheet.css - 80 - 66.249.66.187 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.know-it.pe/ 200 0 0 71
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-06-25 20:28:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-06-25 20:28:01 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 223

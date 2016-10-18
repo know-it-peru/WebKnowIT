@@ -1,0 +1,37 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-25 00:24:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-25 00:24:14 172.31.22.76 GET /zecmd/zecmd.jsp comment=id 80 - 82.220.38.188 - - 404 0 2 191
+2016-04-25 00:28:51 172.31.22.76 GET /testproxy.php - 80 - 37.233.101.128 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 269
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-25 01:39:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-25 01:39:30 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234
+2016-04-25 01:46:18 172.31.22.76 GET /testproxy.php - 80 - 185.25.151.159 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-25 06:19:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-25 06:19:15 172.31.22.76 GET / - 80 - 5.39.222.159 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 200 0 0 1603
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-25 08:28:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-25 08:28:39 172.31.22.76 GET /manager/html - 80 - 101.251.229.133 Mozilla/3.0+(compatible;+Indy+Library) - 404 0 2 479
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-25 15:42:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-25 15:42:53 172.31.22.76 GET / - 80 - 139.129.41.219 Apache-HttpAsyncClient/4.1.1+(Java/1.8.0_91) - 200 0 0 548
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-25 16:54:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-25 16:54:59 172.31.22.76 HEAD / - 80 - 154.74.130.69 - - 200 0 0 410
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-04-25 21:41:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-04-25 21:41:10 172.31.22.76 GET /xmlrpc.php - 80 - 89.248.174.4 - - 404 0 2 199

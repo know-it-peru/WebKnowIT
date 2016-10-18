@@ -1,0 +1,31 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-13 04:30:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-13 04:30:18 172.31.22.76 GET /robots.txt - 80 - 66.249.79.229 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 174
+2016-03-13 04:30:18 172.31.22.76 GET /favicon.ico - 80 - 66.249.79.215 Googlebot-Image/1.0 - 200 0 0 16
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-13 06:55:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-13 06:55:42 172.31.22.76 GET /testproxy.php - 80 - 94.185.83.100 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 335
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-13 11:03:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-13 11:03:00 172.31.22.76 GET /testproxy.php - 80 - 178.216.200.48 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 293
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-13 15:40:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-13 15:40:06 172.31.22.76 GET / - 80 - 66.249.83.145 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 0 0 916
+2016-03-13 15:40:06 172.31.22.76 GET /favicon.ico - 80 - 66.249.83.148 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 0 0 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-03-13 23:05:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-03-13 23:05:20 172.31.22.76 GET /muieblackcat - 80 - 132.248.44.99 - - 404 0 2 1717
+2016-03-13 23:05:22 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 132.248.44.99 - - 404 0 2 125
+2016-03-13 23:05:22 172.31.22.76 GET /pma/scripts/setup.php - 80 - 132.248.44.99 - - 404 0 2 116
+2016-03-13 23:05:22 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 132.248.44.99 - - 404 0 2 129
+2016-03-13 23:05:22 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 132.248.44.99 - - 404 0 2 120

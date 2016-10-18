@@ -1,0 +1,31 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-12 02:41:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-12 02:41:16 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 530
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-12 03:45:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-12 03:45:38 172.31.22.76 HEAD / - 80 - 200.137.128.131 - - 200 0 64 952
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-12 06:06:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-12 06:06:54 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 572
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-12 16:14:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-12 16:14:13 172.31.22.76 GET / - 80 - 222.186.21.35 python-requests/2.7.0+CPython/2.7.0+Windows/2003Server - 200 0 0 1266
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-12 20:36:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-12 20:36:46 172.31.22.76 GET / - 80 - 78.27.140.4 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 - 200 0 0 548
+2016-09-12 20:42:31 172.31.22.76 HEAD / - 80 - 207.46.140.13 - - 200 0 0 152
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-12 21:52:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-12 21:52:04 172.31.22.76 GET / - 80 - 213.128.81.66 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 200 0 0 817

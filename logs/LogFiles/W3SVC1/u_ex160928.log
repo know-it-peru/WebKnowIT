@@ -1,0 +1,225 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 00:05:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 00:05:11 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 00:22:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 00:22:06 172.31.22.76 GET /testproxy.php - 80 - 185.25.148.240 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 00:50:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 00:50:04 172.31.22.76 GET /phpMyAdmin - 80 - 122.9.2.210 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) http://52.25.39.214/phpMyAdmin 404 0 2 2124
+2016-09-28 01:01:54 172.31.22.76 GET / - 80 - 185.93.185.10 - - 200 0 0 2218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 01:49:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 01:49:16 172.31.22.76 GET /testproxy.php - 80 - 91.196.50.33 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 02:52:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 02:52:09 172.31.22.76 GET / - 80 - 192.241.193.129 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727) http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.know-it.pe%2F&h=UKxK5dqCa 200 0 0 140
+2016-09-28 02:53:09 172.31.22.76 HEAD / - 80 - 66.220.152.38 - - 200 0 0 78
+2016-09-28 02:53:10 172.31.22.76 GET /robots.txt - 80 - 52.4.218.147 Mozilla/5.0+(compatible;+proximic;++http://www.proximic.com/info/spider.php) - 404 0 2 78
+2016-09-28 02:53:45 172.31.22.76 GET / - 80 - 52.90.125.51 Mozilla/5.0+(compatible;+proximic;++http://www.proximic.com/info/spider.php) - 200 0 0 62
+2016-09-28 03:05:30 172.31.22.76 GET / - 80 - 179.7.136.229 Mozilla/5.0+(Linux;+Android+5.1;+XT1032+Build/LPBS23.13-56-2;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 03:05:41 172.31.22.76 GET / - 80 - 190.239.84.233 Mozilla/5.0+(Linux;+Android+6.0.1;+SM-G900M+Build/MMB29M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 03:10:43 172.31.22.76 GET / - 80 - 179.7.130.109 Mozilla/5.0+(Linux;+Android+4.4.2;+LG-D625+Build/KOT49I)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 03:12:10 172.31.22.76 GET / - 80 - 200.121.220.86 Mozilla/5.0+(Linux;+Android+4.4.4;+HUAWEI+Y635-L03+Build/HuaweiY635-L03)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 453
+2016-09-28 03:12:29 172.31.22.76 GET / - 80 - 200.106.89.196 Mozilla/5.0+(Linux;+Android+5.0;+Tab2A7-10F+Build/LRX21M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 312
+2016-09-28 03:13:55 172.31.22.76 GET / - 80 - 190.233.35.127 Mozilla/5.0+(Linux;+Android+4.4.2;+HUAWEI+Y360-U23+Build/HUAWEIY360-U23)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 171
+2016-09-28 03:14:40 172.31.22.76 GET / - 80 - 190.236.30.187 Mozilla/5.0+(Linux;+Android+5.0;+ALE-L23+Build/HuaweiALE-L23)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/37.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 234
+2016-09-28 03:15:31 172.31.22.76 GET / - 80 - 190.237.239.194 Mozilla/5.0+(Linux;+Android+6.0.1;+LG-K500+Build/MMB29M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 03:16:17 172.31.22.76 GET / - 80 - 179.7.12.70 Mozilla/5.0+(Linux;+Android+4.4.2;+es-us;+ILIUM+S106+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 281
+2016-09-28 03:17:42 172.31.22.76 GET / - 80 - 190.234.120.216 Mozilla/5.0+(Linux;+U;+Android+4.2.2;+es-us;+GT-S7580E+Build/JDQ39)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 03:29:34 172.31.22.76 GET / - 80 - 190.42.87.4 Mozilla/5.0+(Linux;+Android+4.4.2;+S3001D+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 171
+2016-09-28 03:29:57 172.31.22.76 GET / - 80 - 190.113.208.149 Mozilla/5.0+(Linux;+Android+5.1.1;+5065A+Build/LMY47V;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 218
+2016-09-28 03:30:22 172.31.22.76 GET / - 80 - 190.236.15.182 Mozilla/5.0+(Linux;+Android+4.4.4;+SM-E500M+Build/KTU84P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 218
+2016-09-28 03:30:31 172.31.22.76 GET / - 80 - 190.236.27.208 Mozilla/5.0+(Linux;+Android+4.4.2;+T1+7.0+Build/HuaweiMediaPad)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.109+Safari/537.36 - 200 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 03:47:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 03:47:37 172.31.22.76 GET / - 80 - 190.236.30.216 Mozilla/5.0+(Linux;+Android+5.0;+ALE-L23+Build/HuaweiALE-L23)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/37.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 421
+2016-09-28 03:49:48 172.31.22.76 GET / - 80 - 179.7.11.149 Mozilla/5.0+(Linux;+Android+5.0.2;+SM-G530FZ+Build/LRX22G;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 03:55:11 172.31.22.76 GET / - 80 - 190.233.35.127 Mozilla/5.0+(Linux;+Android+4.4.2;+HUAWEI+Y360-U23+Build/HUAWEIY360-U23)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 171
+2016-09-28 03:56:37 172.31.22.76 GET / - 80 - 190.233.35.127 Mozilla/5.0+(Linux;+Android+4.4.2;+HUAWEI+Y360-U23+Build/HUAWEIY360-U23)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 04:02:16 172.31.22.76 GET / - 80 - 190.236.18.85 Mozilla/5.0+(Linux;+Android+4.4.2;+XT1021+Build/KXC20.82-13)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 156
+2016-09-28 04:09:53 172.31.22.76 GET / - 80 - 179.7.137.37 Mozilla/5.0+(Linux;+Android+4.4.2;+iSwag+Legend+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 04:10:08 172.31.22.76 GET / - 80 - 200.106.34.70 Mozilla/5.0+(Linux;+U;+Android+4.2.2;+es-es;+Andy-4EI+Build/JDQ39)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30+[FB_IAB/FB4A;FBAV/91.0.0.17.68;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 04:10:08 172.31.22.76 GET / - 80 - 190.236.24.183 Mozilla/5.0+(Linux;+Android+4.4.4;+HUAWEI+Y635-L03+Build/HuaweiY635-L03)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 828
+2016-09-28 04:10:12 172.31.22.76 GET / - 80 - 201.240.82.185 Mozilla/5.0+(Linux;+Android+4.4.2;+SM-G355M+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 171
+2016-09-28 04:10:18 172.31.22.76 GET / - 80 - 179.7.132.187 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200M+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/96.0.0.17.70;] http://m.facebook.com/ 200 0 0 265
+2016-09-28 04:11:18 172.31.22.76 GET / - 80 - 190.233.185.240 Mozilla/5.0+(Linux;+Android+6.0;+MotoG3+Build/MPI24.65-25;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 265
+2016-09-28 04:14:14 172.31.22.76 GET / - 80 - 200.121.203.17 Mozilla/5.0+(Linux;+Android+6.0;+ZTE+Blade+A315+Build/MRA58K;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 04:15:51 172.31.22.76 GET / - 80 - 200.121.203.50 Mozilla/5.0+(Linux;+Android+6.0;+ZTE+Blade+A315+Build/MRA58K;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 04:27:52 172.31.22.76 GET / - 80 - 190.236.31.187 Mozilla/5.0+(Linux;+Android+4.0.0;)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;] http://m.facebook.com/ 200 0 0 218
+2016-09-28 04:36:02 172.31.22.76 GET / - 80 - 190.236.141.115 Mozilla/5.0+(Linux;+Android+5.1.1;+LG-H960+Build/LMY47V;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 812
+2016-09-28 04:37:14 172.31.22.76 GET / - 80 - 190.233.206.40 Mozilla/5.0+(Linux;+Android+4.4.4;+SM-E700M+Build/KTU84P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 812
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 05:13:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 05:13:11 172.31.22.76 GET / - 80 - 200.106.89.201 Mozilla/5.0+(Linux;+Android+5.0.2;+SM-T700+Build/LRX22G;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 8031
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 05:41:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 05:41:33 172.31.22.76 GET / - 80 - 190.236.27.87 Mozilla/5.0+(Linux;+Android+4.4.2;+es-ES;+4009A+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/13.0.0.16.141;] http://m.facebook.com/ 200 0 0 515
+2016-09-28 05:41:33 172.31.22.76 GET /favicon.ico - 80 - 190.236.27.87 Mozilla/5.0+(Linux;+Android+4.4.2;+4009A+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36 - 200 0 0 203
+2016-09-28 05:44:29 172.31.22.76 GET / - 80 - 190.236.26.219 Mozilla/5.0+(Linux;+Android+5.1;+AX1065+Build/LMY47D)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/39.0.0.0+Mobile+Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/11.0.0.9.140;] http://m.facebook.com/ 200 0 0 234
+2016-09-28 05:44:29 172.31.22.76 GET /favicon.ico - 80 - 190.236.26.219 Mozilla/5.0+(Linux;+Android+5.1;+AX1065+Build/LMY47D)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/39.0.0.0+Mobile+Safari/537.36 - 200 0 0 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 06:08:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 06:08:50 172.31.22.76 GET / - 80 - 190.236.29.176 Mozilla/5.0+(Linux;+Android+5.0.1;+ALE-L23+Build/HuaweiALE-L23)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/37.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 281
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 06:35:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 06:35:15 172.31.22.76 GET / - 80 - 63.141.231.198 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 07:02:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 07:02:53 172.31.22.76 GET /robots.txt - 80 - 66.249.65.13 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 109
+2016-09-28 07:02:53 172.31.22.76 GET / - 80 - 66.249.65.13 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 07:50:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 07:50:21 172.31.22.76 GET / - 80 - 190.113.208.171 Mozilla/5.0+(Linux;+Android+5.0.1;+ALE-L23+Build/HuaweiALE-L23)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/37.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 312
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 09:17:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 09:17:51 172.31.22.76 GET /testproxy.php - 80 - 185.49.14.190 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/31.0 - 404 0 2 234
+2016-09-28 09:21:35 172.31.22.76 GET /muieblackcat - 80 - 80.82.65.168 - - 404 0 2 218
+2016-09-28 09:21:35 172.31.22.76 GET /phpMyAdmin/scripts/setup.php - 80 - 80.82.65.168 - - 404 0 2 156
+2016-09-28 09:21:35 172.31.22.76 GET /phpmyadmin/scripts/setup.php - 80 - 80.82.65.168 - - 404 0 2 140
+2016-09-28 09:21:35 172.31.22.76 GET /pma/scripts/setup.php - 80 - 80.82.65.168 - - 404 0 2 156
+2016-09-28 09:21:36 172.31.22.76 GET /myadmin/scripts/setup.php - 80 - 80.82.65.168 - - 404 0 2 156
+2016-09-28 09:21:36 172.31.22.76 GET /MyAdmin/scripts/setup.php - 80 - 80.82.65.168 - - 404 0 2 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 11:47:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 11:47:22 172.31.22.76 GET / - 80 - 173.208.207.133 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 12:35:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 12:35:32 172.31.22.76 GET / - 80 - 179.7.47.207 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-G928G+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/43.0.2357.121+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 359
+2016-09-28 12:46:46 172.31.22.76 GET / - 80 - 190.236.25.243 Mozilla/5.0+(Linux;+Android+4.4.2;+NIM-500D+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/85.0.0.15.70;] http://m.facebook.com/ 200 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 13:36:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 13:36:48 172.31.22.76 GET / - 80 - 173.252.90.101 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 304 0 0 187
+2016-09-28 13:51:31 172.31.22.76 GET / - 80 - 190.108.88.38 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J500M+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 14:20:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 14:20:55 172.31.22.76 GET / - 80 - 190.236.25.255 Mozilla/5.0+(Linux;+Android+4.4.4;+HUAWEI+Y635-L03+Build/HuaweiY635-L03)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 968
+2016-09-28 14:35:04 172.31.22.76 GET / - 80 - 132.184.64.152 Mozilla/5.0+(Linux;+Android+6.0;+hi6210sft+Build/MRA58K;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 14:43:43 172.31.22.76 GET / - 80 - 190.236.28.115 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200M+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/46.0.2490.76+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 14:54:32 172.31.22.76 GET / - 80 - 181.176.47.129 Mozilla/5.0+(Linux;+Android+4.4.4;+XT1058+Build/KXA21.12-L1.26)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 453
+2016-09-28 15:06:04 172.31.22.76 GET / - 80 - 179.7.38.68 Mozilla/5.0+(Linux;+Android+6.0;+LG-K430+Build/MRA58K;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/96.0.0.17.70;] http://m.facebook.com/ 200 0 0 250
+2016-09-28 15:18:09 172.31.22.76 HEAD / - 80 - 103.5.126.158 - - 200 0 64 203
+2016-09-28 15:32:04 172.31.22.76 GET / - 80 - 190.236.28.147 Mozilla/5.0+(Linux;+Android+6.0;+LG-K350+Build/MRA58K;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 15:41:36 172.31.22.76 GET / - 80 - 190.232.70.6 Mozilla/5.0+(Linux;+Android+6.0.1;+LG-H840+Build/MMB29M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 390
+2016-09-28 15:42:35 172.31.22.76 GET / - 80 - 179.7.1.81 Mozilla/5.0+(Linux;+Android+4.4.4;+Z410+Build/KTU84P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 234
+2016-09-28 15:44:09 172.31.22.76 GET / - 80 - 179.7.113.93 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J110M+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 171
+2016-09-28 15:46:49 172.31.22.76 GET / - 80 - 179.7.130.69 Mozilla/5.0+(Linux;+Android+4.4.2;+SM-T230+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 15:53:55 172.31.22.76 GET / - 80 - 190.42.88.104 Mozilla/5.0+(Linux;+Android+5.1.1;+S4035_4G+Build/LMY47V;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/51.0.2704.81+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 16:15:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 16:15:03 172.31.22.76 GET / - 80 - 179.7.37.93 Mozilla/5.0+(Linux;+Android+5.1.1;+5065A+Build/LMY47V;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/43.0.2357.121+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 1234
+2016-09-28 16:20:53 172.31.22.76 GET / - 80 - 190.236.12.130 Mozilla/5.0+(Linux;+Android+5.0.2;+D6603+Build/23.1.A.0.690;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 16:38:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 16:38:07 172.31.22.76 GET / - 80 - 190.239.189.245 Mozilla/5.0+(Linux;+Android+6.0.1;+Moto+G+(4)+Build/MPJ24.139-23.1;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 312
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 16:57:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 16:57:14 172.31.22.76 GET / - 80 - 179.7.11.249 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J500M+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 17:19:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 17:19:02 172.31.22.76 GET / - 80 - 190.236.23.166 Mozilla/5.0+(Linux;+Android+5.1;+Lenovo+A2010l36+Build/LMY47D;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/43.0.2357.121+Mobile+Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/16.0.0.5.143;] http://m.facebook.com/ 200 0 0 265
+2016-09-28 17:19:02 172.31.22.76 GET /favicon.ico - 80 - 190.236.23.166 Mozilla/5.0+(Linux;+Android+5.1;+Lenovo+A2010l36+Build/LMY47D;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/43.0.2357.121+Mobile+Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/16.0.0.5.143;] http://www.know-it.pe/ 200 0 0 140
+2016-09-28 17:19:32 172.31.22.76 GET / - 80 - 179.7.113.93 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J110M+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 171
+2016-09-28 17:20:52 172.31.22.76 GET / - 80 - 190.239.69.111 Mozilla/5.0+(Linux;+Android+5.1;+AX1065+Build/LMY47D)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/39.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 18:37:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 18:37:13 172.31.22.76 HEAD /check_proxy - 80 - 180.97.106.37 - - 404 0 2 484
+2016-09-28 18:46:17 172.31.22.76 GET / - 80 - 179.7.216.23 Mozilla/5.0+(Linux;+Android+4.4.4;+SM-G530M+Build/KTU84P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 156
+2016-09-28 18:52:05 172.31.22.76 GET /user/soapCaller.bs - 80 - 75.75.210.162 Morfeus+Fucking+Scanner - 404 0 2 109
+2016-09-28 18:59:17 172.31.22.76 GET / - 80 - 190.236.31.84 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-G531H+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/47.0.2526.100+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 234
+2016-09-28 19:10:39 172.31.22.76 GET / - 80 - 190.236.24.20 Mozilla/5.0+(Linux;+Android+5.1;+HUAWEI+CUN-L03+Build/HUAWEICUN-L03;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 19:24:34 172.31.22.76 GET / - 80 - 190.236.25.67 Mozilla/5.0+(Linux;+Android+6.0.1;+SM-G930F+Build/MMB29K;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 437
+2016-09-28 19:33:42 172.31.22.76 GET / - 80 - 132.184.64.185 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J105B+Build/LMY47V;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/46.0.2490.76+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 218
+2016-09-28 19:38:43 172.31.22.76 GET / - 80 - 179.7.8.252 Mozilla/5.0+(Linux;+Android+5.0.2;+SM-G530FZ+Build/LRX22G;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 218
+2016-09-28 19:46:48 172.31.22.76 GET / - 80 - 190.117.193.140 Mozilla/5.0+(Linux;+Android+6.0;+XT1063+Build/MPB24.65-34;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/45.0.2454.95+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 218
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 20:03:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 20:03:31 172.31.22.76 GET / - 80 - 179.7.141.227 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-G531H+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 20:09:57 172.31.22.76 GET / - 80 - 132.184.64.41 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J700M+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 20:28:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 20:28:35 172.31.22.76 GET / - 80 - 179.7.32.81 Mozilla/5.0+(Linux;+Android+5.0.2;+SM-G360M+Build/LRX22G;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/51.0.2704.81+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/93.0.0.13.69;] http://m.facebook.com/ 200 0 0 312
+2016-09-28 20:30:05 172.31.22.76 GET / - 80 - 179.7.128.100 Mozilla/5.0+(Linux;+Android+4.4.2;+SM-T230+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 20:41:06 172.31.22.76 GET / - 80 - 179.7.46.2 Mozilla/5.0+(Linux;+Android+4.4.4;+LG-D390+Build/KTU84P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 203
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 21:08:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 21:08:26 172.31.22.76 GET / - 80 - 200.121.235.223 Mozilla/5.0+(Linux;+Android+5.0;+SM-G900M+Build/LRX21T;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 546
+2016-09-28 21:11:41 172.31.22.76 GET / - 80 - 190.113.210.241 Mozilla/5.0+(Linux;+U;+Android+4.2.2;+es-mx;++Azumi+A50c+Build/JDQ39)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30+[FB_IAB/FB4A;FBAV/91.0.0.17.68;] http://m.facebook.com/ 200 0 0 218
+2016-09-28 21:16:33 172.31.22.76 GET / - 80 - 181.66.49.207 Mozilla/5.0+(Linux;+Android+4.4.4;+HUAWEI+Y635-L03+Build/HuaweiY635-L03)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/96.0.0.17.70;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 21:30:15 172.31.22.76 GET / - 80 - 179.7.15.33 Mozilla/5.0+(Linux;+Android+5.1.1;+5065A+Build/LMY47V;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/94.0.0.17.68;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 21:30:25 172.31.22.76 GET / - 80 - 132.184.64.70 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J320M+Build/LMY47V;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/46.0.2490.76+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 171
+2016-09-28 21:35:09 172.31.22.76 GET / - 80 - 190.108.88.38 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J500M+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/43.0.2357.121+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 234
+2016-09-28 21:36:05 172.31.22.76 GET / - 80 - 179.7.36.166 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J500M+Build/LMY48B;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 234
+2016-09-28 21:38:40 172.31.22.76 GET / - 80 - 190.236.31.49 Mozilla/5.0+(Linux;+Android+5.0.1;+ALE-L23+Build/HuaweiALE-L23)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/37.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 218
+2016-09-28 21:51:38 172.31.22.76 GET / - 80 - 190.108.84.62 Mozilla/5.0+(Linux;+Android+4.4.2;+8056+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 22:15:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 22:15:53 172.31.22.76 GET / - 80 - 179.7.11.222 Mozilla/5.0+(Linux;+U;+Android+4.2.2;+es-mx;+ONE+TOUCH+4015A+Build/JDQ39)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.2+Mobile+Safari/534.30+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 296
+2016-09-28 22:17:23 172.31.22.76 GET / - 80 - 179.7.142.122 Mozilla/5.0+(Linux;+Android+5.0.2;+LG-D690+Build/LRX22G;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 187
+2016-09-28 22:30:36 172.31.22.76 GET / - 80 - 190.239.82.70 Mozilla/5.0+(Linux;+Android+5.1;+XT1032+Build/LPBS23.13-56-2;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/42.0.2311.138+Mobile+Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/15.0.0.18.141;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 22:30:36 172.31.22.76 GET /favicon.ico - 80 - 190.239.82.70 Mozilla/5.0+(Linux;+Android+5.1;+XT1032+Build/LPBS23.13-56-2;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/42.0.2311.138+Mobile+Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/15.0.0.18.141;] http://www.know-it.pe/ 200 0 64 281
+2016-09-28 22:34:51 172.31.22.76 GET / - 80 - 190.236.27.184 Mozilla/5.0+(Linux;+Android+6.0;+MotoG3+Build/MPI24.65-25;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 312
+2016-09-28 22:38:46 172.31.22.76 GET / - 80 - 190.236.24.55 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9515L+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/96.0.0.17.70;] http://m.facebook.com/ 200 0 0 484
+2016-09-28 22:40:02 172.31.22.76 GET / - 80 - 200.121.254.164 Mozilla/5.0+(Linux;+Android+4.4.2;+Lenovo+TAB+2+A7-30GC+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Safari/537.36;+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 250
+2016-09-28 22:45:53 172.31.22.76 GET / - 80 - 190.43.241.229 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-G928G+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/43.0.2357.121+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 22:48:37 172.31.22.76 GET / - 80 - 200.121.220.238 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200M+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/52.0.2743.98+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 250
+2016-09-28 22:59:05 172.31.22.76 GET / - 80 - 181.176.36.211 Mozilla/5.0+(Linux;+Android+4.4.4;+SM-E700M+Build/KTU84P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/33.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/92.0.0.16.72;] http://m.facebook.com/ 200 0 0 203
+2016-09-28 23:11:40 172.31.22.76 GET / - 80 - 190.113.210.6 Mozilla/5.0+(Linux;+Android+4.4.2;+HUAWEI+P7-L12+Build/HuaweiP7-L12)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 218
+2016-09-28 23:13:18 172.31.22.76 GET / - 80 - 190.239.65.24 Mozilla/5.0+(Linux;+Android+6.0.1;+SM-G935F+Build/MMB29K;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/53.0.2785.124+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/96.0.0.17.70;] - 200 0 0 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-28 23:51:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-28 23:51:52 172.31.22.76 GET / - 80 - 190.238.38.235 Mozilla/5.0+(Linux;+Android+4.4.2;+BITEL+B8409+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/95.0.0.13.69;] http://m.facebook.com/ 200 0 0 312
